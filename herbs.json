@@ -1,0 +1,3974 @@
+[
+ {
+  "name": "麻黄",
+  "pinyin": "ma huang",
+  "category": "解表药",
+  "initials": "mh"
+ },
+ {
+  "name": "桂枝",
+  "pinyin": "gui zhi",
+  "category": "解表药",
+  "initials": "gz"
+ },
+ {
+  "name": "紫苏叶",
+  "pinyin": "zi su ye",
+  "category": "解表药",
+  "initials": "zsy"
+ },
+ {
+  "name": "生姜",
+  "pinyin": "sheng jiang",
+  "category": "解表药",
+  "initials": "sj"
+ },
+ {
+  "name": "香薷",
+  "pinyin": "xiang ru",
+  "category": "解表药",
+  "initials": "xr"
+ },
+ {
+  "name": "荆芥",
+  "pinyin": "jing jie",
+  "category": "解表药",
+  "initials": "jj"
+ },
+ {
+  "name": "防风",
+  "pinyin": "fang feng",
+  "category": "解表药",
+  "initials": "ff"
+ },
+ {
+  "name": "羌活",
+  "pinyin": "qiang huo",
+  "category": "解表药",
+  "initials": "qh"
+ },
+ {
+  "name": "白芷",
+  "pinyin": "bai zhi",
+  "category": "解表药",
+  "initials": "bz"
+ },
+ {
+  "name": "细辛",
+  "pinyin": "xi xin",
+  "category": "解表药",
+  "initials": "xx"
+ },
+ {
+  "name": "藁本",
+  "pinyin": "gao ben",
+  "category": "解表药",
+  "initials": "gb"
+ },
+ {
+  "name": "苍耳子",
+  "pinyin": "cang er zi",
+  "category": "解表药",
+  "initials": "cez"
+ },
+ {
+  "name": "辛夷",
+  "pinyin": "xin yi",
+  "category": "解表药",
+  "initials": "xy"
+ },
+ {
+  "name": "薄荷",
+  "pinyin": "bo he",
+  "category": "解表药",
+  "initials": "bh"
+ },
+ {
+  "name": "牛蒡子",
+  "pinyin": "niu bang zi",
+  "category": "解表药",
+  "initials": "nbz"
+ },
+ {
+  "name": "蝉蜕",
+  "pinyin": "chan tui",
+  "category": "解表药",
+  "initials": "ct"
+ },
+ {
+  "name": "桑叶",
+  "pinyin": "sang ye",
+  "category": "解表药",
+  "initials": "sy"
+ },
+ {
+  "name": "菊花",
+  "pinyin": "ju hua",
+  "category": "解表药",
+  "initials": "jh"
+ },
+ {
+  "name": "蔓荆子",
+  "pinyin": "man jing zi",
+  "category": "解表药",
+  "initials": "mjz"
+ },
+ {
+  "name": "柴胡",
+  "pinyin": "chai hu",
+  "category": "解表药",
+  "initials": "ch"
+ },
+ {
+  "name": "升麻",
+  "pinyin": "sheng ma",
+  "category": "解表药",
+  "initials": "sm"
+ },
+ {
+  "name": "葛根",
+  "pinyin": "ge gen",
+  "category": "解表药",
+  "initials": "gg"
+ },
+ {
+  "name": "淡豆豉",
+  "pinyin": "dan dou shi",
+  "category": "解表药",
+  "initials": "dds"
+ },
+ {
+  "name": "浮萍",
+  "pinyin": "fu ping",
+  "category": "解表药",
+  "initials": "fp"
+ },
+ {
+  "name": "石膏",
+  "pinyin": "shi gao",
+  "category": "清热药",
+  "initials": "sg"
+ },
+ {
+  "name": "知母",
+  "pinyin": "zhi mu",
+  "category": "清热药",
+  "initials": "zm"
+ },
+ {
+  "name": "芦根",
+  "pinyin": "lu gen",
+  "category": "清热药",
+  "initials": "lg"
+ },
+ {
+  "name": "天花粉",
+  "pinyin": "tian hua fen",
+  "category": "清热药",
+  "initials": "thf"
+ },
+ {
+  "name": "淡竹叶",
+  "pinyin": "dan zhu ye",
+  "category": "清热药",
+  "initials": "dzy"
+ },
+ {
+  "name": "栀子",
+  "pinyin": "zhi zi",
+  "category": "清热药",
+  "initials": "zz"
+ },
+ {
+  "name": "夏枯草",
+  "pinyin": "xia ku cao",
+  "category": "清热药",
+  "initials": "xkc"
+ },
+ {
+  "name": "决明子",
+  "pinyin": "jue ming zi",
+  "category": "清热药",
+  "initials": "jmz"
+ },
+ {
+  "name": "黄芩",
+  "pinyin": "huang qin",
+  "category": "清热药",
+  "initials": "hq"
+ },
+ {
+  "name": "黄连",
+  "pinyin": "huang lian",
+  "category": "清热药",
+  "initials": "hl"
+ },
+ {
+  "name": "黄柏",
+  "pinyin": "huang bai",
+  "category": "清热药",
+  "initials": "hb"
+ },
+ {
+  "name": "龙胆",
+  "pinyin": "long dan",
+  "category": "清热药",
+  "initials": "ld"
+ },
+ {
+  "name": "秦皮",
+  "pinyin": "qin pi",
+  "category": "清热药",
+  "initials": "qp"
+ },
+ {
+  "name": "苦参",
+  "pinyin": "ku shen",
+  "category": "清热药",
+  "initials": "ks"
+ },
+ {
+  "name": "金银花",
+  "pinyin": "jin yin hua",
+  "category": "清热药",
+  "initials": "jyh"
+ },
+ {
+  "name": "连翘",
+  "pinyin": "lian qiao",
+  "category": "清热药",
+  "initials": "lq"
+ },
+ {
+  "name": "蒲公英",
+  "pinyin": "pu gong ying",
+  "category": "清热药",
+  "initials": "pgy"
+ },
+ {
+  "name": "紫花地丁",
+  "pinyin": "zi hua di ding",
+  "category": "清热药",
+  "initials": "zhdd"
+ },
+ {
+  "name": "板蓝根",
+  "pinyin": "ban lan gen",
+  "category": "清热药",
+  "initials": "blg"
+ },
+ {
+  "name": "大青叶",
+  "pinyin": "da qing ye",
+  "category": "清热药",
+  "initials": "dqy"
+ },
+ {
+  "name": "鱼腥草",
+  "pinyin": "yu xing cao",
+  "category": "清热药",
+  "initials": "yxc"
+ },
+ {
+  "name": "射干",
+  "pinyin": "she gan",
+  "category": "清热药",
+  "initials": "sg"
+ },
+ {
+  "name": "白头翁",
+  "pinyin": "bai tou weng",
+  "category": "清热药",
+  "initials": "btw"
+ },
+ {
+  "name": "马齿苋",
+  "pinyin": "ma chi xian",
+  "category": "清热药",
+  "initials": "mcx"
+ },
+ {
+  "name": "生地黄",
+  "pinyin": "sheng di huang",
+  "category": "清热药",
+  "initials": "sdh"
+ },
+ {
+  "name": "玄参",
+  "pinyin": "xuan shen",
+  "category": "清热药",
+  "initials": "xs"
+ },
+ {
+  "name": "牡丹皮",
+  "pinyin": "mu dan pi",
+  "category": "清热药",
+  "initials": "mdp"
+ },
+ {
+  "name": "赤芍",
+  "pinyin": "chi shao",
+  "category": "清热药",
+  "initials": "cs"
+ },
+ {
+  "name": "紫草",
+  "pinyin": "zi cao",
+  "category": "清热药",
+  "initials": "zc"
+ },
+ {
+  "name": "青蒿",
+  "pinyin": "qing hao",
+  "category": "清热药",
+  "initials": "qh"
+ },
+ {
+  "name": "地骨皮",
+  "pinyin": "de gu pi",
+  "category": "清热药",
+  "initials": "dgp"
+ },
+ {
+  "name": "白薇",
+  "pinyin": "bai wei",
+  "category": "清热药",
+  "initials": "bw"
+ },
+ {
+  "name": "大黄",
+  "pinyin": "da huang",
+  "category": "泻下药",
+  "initials": "dh"
+ },
+ {
+  "name": "芒硝",
+  "pinyin": "mang xiao",
+  "category": "泻下药",
+  "initials": "mx"
+ },
+ {
+  "name": "火麻仁",
+  "pinyin": "huo ma ren",
+  "category": "泻下药",
+  "initials": "hmr"
+ },
+ {
+  "name": "郁李仁",
+  "pinyin": "yu li ren",
+  "category": "泻下药",
+  "initials": "ylr"
+ },
+ {
+  "name": "甘遂",
+  "pinyin": "gan sui",
+  "category": "泻下药",
+  "initials": "gs"
+ },
+ {
+  "name": "牵牛子",
+  "pinyin": "qian niu zi",
+  "category": "泻下药",
+  "initials": "qnz"
+ },
+ {
+  "name": "独活",
+  "pinyin": "du huo",
+  "category": "祛风湿药",
+  "initials": "dh"
+ },
+ {
+  "name": "威灵仙",
+  "pinyin": "wei ling xian",
+  "category": "祛风湿药",
+  "initials": "wlx"
+ },
+ {
+  "name": "川乌",
+  "pinyin": "chuan wu",
+  "category": "祛风湿药",
+  "initials": "cw"
+ },
+ {
+  "name": "蕲蛇",
+  "pinyin": "qi she",
+  "category": "祛风湿药",
+  "initials": "qs"
+ },
+ {
+  "name": "木瓜",
+  "pinyin": "mu gua",
+  "category": "祛风湿药",
+  "initials": "mg"
+ },
+ {
+  "name": "蚕沙",
+  "pinyin": "can sha",
+  "category": "祛风湿药",
+  "initials": "cs"
+ },
+ {
+  "name": "秦艽",
+  "pinyin": "qin jiao",
+  "category": "祛风湿药",
+  "initials": "qj"
+ },
+ {
+  "name": "防己",
+  "pinyin": "fang ji",
+  "category": "祛风湿药",
+  "initials": "fj"
+ },
+ {
+  "name": "桑枝",
+  "pinyin": "sang zhi",
+  "category": "祛风湿药",
+  "initials": "sz"
+ },
+ {
+  "name": "豨莶草",
+  "pinyin": "xi xian cao",
+  "category": "祛风湿药",
+  "initials": "xxc"
+ },
+ {
+  "name": "络石藤",
+  "pinyin": "luo shi teng",
+  "category": "祛风湿药",
+  "initials": "lst"
+ },
+ {
+  "name": "五加皮",
+  "pinyin": "wu jia pi",
+  "category": "祛风湿药",
+  "initials": "wjp"
+ },
+ {
+  "name": "桑寄生",
+  "pinyin": "sang ji sheng",
+  "category": "祛风湿药",
+  "initials": "sjs"
+ },
+ {
+  "name": "狗脊",
+  "pinyin": "gou ji",
+  "category": "祛风湿药",
+  "initials": "gj"
+ },
+ {
+  "name": "藿香",
+  "pinyin": "huo xiang",
+  "category": "化湿药",
+  "initials": "hx"
+ },
+ {
+  "name": "佩兰",
+  "pinyin": "pei lan",
+  "category": "化湿药",
+  "initials": "pl"
+ },
+ {
+  "name": "苍术",
+  "pinyin": "cang zhu",
+  "category": "化湿药",
+  "initials": "cz"
+ },
+ {
+  "name": "厚朴",
+  "pinyin": "hou po",
+  "category": "化湿药",
+  "initials": "hp"
+ },
+ {
+  "name": "砂仁",
+  "pinyin": "sha ren",
+  "category": "化湿药",
+  "initials": "sr"
+ },
+ {
+  "name": "豆蔻",
+  "pinyin": "dou kou",
+  "category": "化湿药",
+  "initials": "dk"
+ },
+ {
+  "name": "草果",
+  "pinyin": "cao guo",
+  "category": "化湿药",
+  "initials": "cg"
+ },
+ {
+  "name": "茯苓",
+  "pinyin": "fu ling",
+  "category": "利水渗湿药",
+  "initials": "fl"
+ },
+ {
+  "name": "薏苡仁",
+  "pinyin": "yi yi ren",
+  "category": "利水渗湿药",
+  "initials": "yyr"
+ },
+ {
+  "name": "猪苓",
+  "pinyin": "zhu ling",
+  "category": "利水渗湿药",
+  "initials": "zl"
+ },
+ {
+  "name": "泽泻",
+  "pinyin": "ze xie",
+  "category": "利水渗湿药",
+  "initials": "zx"
+ },
+ {
+  "name": "冬瓜皮",
+  "pinyin": "dong gua pi",
+  "category": "利水渗湿药",
+  "initials": "dgp"
+ },
+ {
+  "name": "车前子",
+  "pinyin": "che qian zi",
+  "category": "利水渗湿药",
+  "initials": "cqz"
+ },
+ {
+  "name": "滑石",
+  "pinyin": "hua shi",
+  "category": "利水渗湿药",
+  "initials": "hs"
+ },
+ {
+  "name": "木通",
+  "pinyin": "mu tong",
+  "category": "利水渗湿药",
+  "initials": "mt"
+ },
+ {
+  "name": "通草",
+  "pinyin": "tong cao",
+  "category": "利水渗湿药",
+  "initials": "tc"
+ },
+ {
+  "name": "瞿麦",
+  "pinyin": "qu mai",
+  "category": "利水渗湿药",
+  "initials": "qm"
+ },
+ {
+  "name": "萹蓄",
+  "pinyin": "bian xu",
+  "category": "利水渗湿药",
+  "initials": "bx"
+ },
+ {
+  "name": "海金沙",
+  "pinyin": "hai jin sha",
+  "category": "利水渗湿药",
+  "initials": "hjs"
+ },
+ {
+  "name": "石韦",
+  "pinyin": "shi wei",
+  "category": "利水渗湿药",
+  "initials": "sw"
+ },
+ {
+  "name": "茵陈",
+  "pinyin": "yin chen",
+  "category": "利水渗湿药",
+  "initials": "yc"
+ },
+ {
+  "name": "金钱草",
+  "pinyin": "jin qian cao",
+  "category": "利水渗湿药",
+  "initials": "jqc"
+ },
+ {
+  "name": "虎杖",
+  "pinyin": "hu zhang",
+  "category": "利水渗湿药",
+  "initials": "hz"
+ },
+ {
+  "name": "附子",
+  "pinyin": "fu zi",
+  "category": "温里药",
+  "initials": "fz"
+ },
+ {
+  "name": "干姜",
+  "pinyin": "gan jiang",
+  "category": "温里药",
+  "initials": "gj"
+ },
+ {
+  "name": "肉桂",
+  "pinyin": "rou gui",
+  "category": "温里药",
+  "initials": "rg"
+ },
+ {
+  "name": "吴茱萸",
+  "pinyin": "wu zhu yu",
+  "category": "温里药",
+  "initials": "wzy"
+ },
+ {
+  "name": "小茴香",
+  "pinyin": "xiao hui xiang",
+  "category": "温里药",
+  "initials": "xhx"
+ },
+ {
+  "name": "丁香",
+  "pinyin": "ding xiang",
+  "category": "温里药",
+  "initials": "dx"
+ },
+ {
+  "name": "高良姜",
+  "pinyin": "gao liang jiang",
+  "category": "温里药",
+  "initials": "glj"
+ },
+ {
+  "name": "花椒",
+  "pinyin": "hua jiao",
+  "category": "温里药",
+  "initials": "hj"
+ },
+ {
+  "name": "陈皮",
+  "pinyin": "chen pi",
+  "category": "理气药",
+  "initials": "cp"
+ },
+ {
+  "name": "青皮",
+  "pinyin": "qing pi",
+  "category": "理气药",
+  "initials": "qp"
+ },
+ {
+  "name": "枳实",
+  "pinyin": "zhi shi",
+  "category": "理气药",
+  "initials": "zs"
+ },
+ {
+  "name": "木香",
+  "pinyin": "mu xiang",
+  "category": "理气药",
+  "initials": "mx"
+ },
+ {
+  "name": "沉香",
+  "pinyin": "chen xiang",
+  "category": "理气药",
+  "initials": "cx"
+ },
+ {
+  "name": "檀香",
+  "pinyin": "tan xiang",
+  "category": "理气药",
+  "initials": "tx"
+ },
+ {
+  "name": "川楝子",
+  "pinyin": "chuan lian zi",
+  "category": "理气药",
+  "initials": "clz"
+ },
+ {
+  "name": "乌药",
+  "pinyin": "wu yao",
+  "category": "理气药",
+  "initials": "wy"
+ },
+ {
+  "name": "香附",
+  "pinyin": "xiang fu",
+  "category": "理气药",
+  "initials": "xf"
+ },
+ {
+  "name": "佛手",
+  "pinyin": "fu shou",
+  "category": "理气药",
+  "initials": "fs"
+ },
+ {
+  "name": "薤白",
+  "pinyin": "xie bai",
+  "category": "理气药",
+  "initials": "xb"
+ },
+ {
+  "name": "柿蒂",
+  "pinyin": "shi di",
+  "category": "理气药",
+  "initials": "sd"
+ },
+ {
+  "name": "山楂",
+  "pinyin": "shan zha",
+  "category": "消食药",
+  "initials": "sz"
+ },
+ {
+  "name": "神曲",
+  "pinyin": "shen qu",
+  "category": "消食药",
+  "initials": "sq"
+ },
+ {
+  "name": "麦芽",
+  "pinyin": "mai ya",
+  "category": "消食药",
+  "initials": "my"
+ },
+ {
+  "name": "谷芽",
+  "pinyin": "gu ya",
+  "category": "消食药",
+  "initials": "gy"
+ },
+ {
+  "name": "莱菔子",
+  "pinyin": "lai fu zi",
+  "category": "消食药",
+  "initials": "lfz"
+ },
+ {
+  "name": "鸡内金",
+  "pinyin": "ji nei jin",
+  "category": "消食药",
+  "initials": "jnj"
+ },
+ {
+  "name": "小蓟",
+  "pinyin": "xiao ji",
+  "category": "止血药",
+  "initials": "xj"
+ },
+ {
+  "name": "大蓟",
+  "pinyin": "da ji",
+  "category": "止血药",
+  "initials": "dj"
+ },
+ {
+  "name": "地榆",
+  "pinyin": "de yu",
+  "category": "止血药",
+  "initials": "dy"
+ },
+ {
+  "name": "槐花",
+  "pinyin": "huai hua",
+  "category": "止血药",
+  "initials": "hh"
+ },
+ {
+  "name": "侧柏叶",
+  "pinyin": "ce bai ye",
+  "category": "止血药",
+  "initials": "cby"
+ },
+ {
+  "name": "白茅根",
+  "pinyin": "bai mao gen",
+  "category": "止血药",
+  "initials": "bmg"
+ },
+ {
+  "name": "三七",
+  "pinyin": "san qi",
+  "category": "止血药",
+  "initials": "sq"
+ },
+ {
+  "name": "茜草",
+  "pinyin": "qian cao",
+  "category": "止血药",
+  "initials": "qc"
+ },
+ {
+  "name": "蒲黄",
+  "pinyin": "pu huang",
+  "category": "止血药",
+  "initials": "ph"
+ },
+ {
+  "name": "白及",
+  "pinyin": "bai ji",
+  "category": "止血药",
+  "initials": "bj"
+ },
+ {
+  "name": "仙鹤草",
+  "pinyin": "xian he cao",
+  "category": "止血药",
+  "initials": "xhc"
+ },
+ {
+  "name": "艾叶",
+  "pinyin": "ai ye",
+  "category": "止血药",
+  "initials": "ay"
+ },
+ {
+  "name": "川芎",
+  "pinyin": "chuan xiong",
+  "category": "活血化瘀药",
+  "initials": "cx"
+ },
+ {
+  "name": "延胡索",
+  "pinyin": "yan hu suo",
+  "category": "活血化瘀药",
+  "initials": "yhs"
+ },
+ {
+  "name": "郁金",
+  "pinyin": "yu jin",
+  "category": "活血化瘀药",
+  "initials": "yj"
+ },
+ {
+  "name": "姜黄",
+  "pinyin": "jiang huang",
+  "category": "活血化瘀药",
+  "initials": "jh"
+ },
+ {
+  "name": "乳香",
+  "pinyin": "ru xiang",
+  "category": "活血化瘀药",
+  "initials": "rx"
+ },
+ {
+  "name": "没药",
+  "pinyin": "mo yao",
+  "category": "活血化瘀药",
+  "initials": "my"
+ },
+ {
+  "name": "丹参",
+  "pinyin": "dan shen",
+  "category": "活血化瘀药",
+  "initials": "ds"
+ },
+ {
+  "name": "红花",
+  "pinyin": "hong hua",
+  "category": "活血化瘀药",
+  "initials": "hh"
+ },
+ {
+  "name": "桃仁",
+  "pinyin": "tao ren",
+  "category": "活血化瘀药",
+  "initials": "tr"
+ },
+ {
+  "name": "益母草",
+  "pinyin": "yi mu cao",
+  "category": "活血化瘀药",
+  "initials": "ymc"
+ },
+ {
+  "name": "牛膝",
+  "pinyin": "niu xi",
+  "category": "活血化瘀药",
+  "initials": "nx"
+ },
+ {
+  "name": "鸡血藤",
+  "pinyin": "ji xue teng",
+  "category": "活血化瘀药",
+  "initials": "jxt"
+ },
+ {
+  "name": "土鳖虫",
+  "pinyin": "tu bie chong",
+  "category": "活血化瘀药",
+  "initials": "tbc"
+ },
+ {
+  "name": "水蛭",
+  "pinyin": "shui zhi",
+  "category": "活血化瘀药",
+  "initials": "sz"
+ },
+ {
+  "name": "莪术",
+  "pinyin": "e zhu",
+  "category": "活血化瘀药",
+  "initials": "ez"
+ },
+ {
+  "name": "三棱",
+  "pinyin": "san leng",
+  "category": "活血化瘀药",
+  "initials": "sl"
+ },
+ {
+  "name": "半夏",
+  "pinyin": "ban xia",
+  "category": "化痰止咳平喘药",
+  "initials": "bx"
+ },
+ {
+  "name": "天南星",
+  "pinyin": "tian nan xing",
+  "category": "化痰止咳平喘药",
+  "initials": "tnx"
+ },
+ {
+  "name": "白附子",
+  "pinyin": "bai fu zi",
+  "category": "化痰止咳平喘药",
+  "initials": "bfz"
+ },
+ {
+  "name": "芥子",
+  "pinyin": "jie zi",
+  "category": "化痰止咳平喘药",
+  "initials": "jz"
+ },
+ {
+  "name": "旋覆花",
+  "pinyin": "xuan fu hua",
+  "category": "化痰止咳平喘药",
+  "initials": "xfh"
+ },
+ {
+  "name": "白前",
+  "pinyin": "bai qian",
+  "category": "化痰止咳平喘药",
+  "initials": "bq"
+ },
+ {
+  "name": "桔梗",
+  "pinyin": "jie geng",
+  "category": "化痰止咳平喘药",
+  "initials": "jg"
+ },
+ {
+  "name": "川贝母",
+  "pinyin": "chuan bei mu",
+  "category": "化痰止咳平喘药",
+  "initials": "cbm"
+ },
+ {
+  "name": "浙贝母",
+  "pinyin": "zhe bei mu",
+  "category": "化痰止咳平喘药",
+  "initials": "zbm"
+ },
+ {
+  "name": "瓜蒌",
+  "pinyin": "gua lou",
+  "category": "化痰止咳平喘药",
+  "initials": "gl"
+ },
+ {
+  "name": "竹茹",
+  "pinyin": "zhu ru",
+  "category": "化痰止咳平喘药",
+  "initials": "zr"
+ },
+ {
+  "name": "竹沥",
+  "pinyin": "zhu li",
+  "category": "化痰止咳平喘药",
+  "initials": "zl"
+ },
+ {
+  "name": "胖大海",
+  "pinyin": "pang da hai",
+  "category": "化痰止咳平喘药",
+  "initials": "pdh"
+ },
+ {
+  "name": "苦杏仁",
+  "pinyin": "ku xing ren",
+  "category": "化痰止咳平喘药",
+  "initials": "kxr"
+ },
+ {
+  "name": "紫苏子",
+  "pinyin": "zi su zi",
+  "category": "化痰止咳平喘药",
+  "initials": "zsz"
+ },
+ {
+  "name": "百部",
+  "pinyin": "bai bu",
+  "category": "化痰止咳平喘药",
+  "initials": "bb"
+ },
+ {
+  "name": "紫菀",
+  "pinyin": "zi wan",
+  "category": "化痰止咳平喘药",
+  "initials": "zw"
+ },
+ {
+  "name": "款冬花",
+  "pinyin": "kuan dong hua",
+  "category": "化痰止咳平喘药",
+  "initials": "kdh"
+ },
+ {
+  "name": "枇杷叶",
+  "pinyin": "pi pa ye",
+  "category": "化痰止咳平喘药",
+  "initials": "ppy"
+ },
+ {
+  "name": "桑白皮",
+  "pinyin": "sang bai pi",
+  "category": "化痰止咳平喘药",
+  "initials": "sbp"
+ },
+ {
+  "name": "葶苈子",
+  "pinyin": "ting li zi",
+  "category": "化痰止咳平喘药",
+  "initials": "tlz"
+ },
+ {
+  "name": "白果",
+  "pinyin": "bai guo",
+  "category": "化痰止咳平喘药",
+  "initials": "bg"
+ },
+ {
+  "name": "朱砂",
+  "pinyin": "zhu sha",
+  "category": "安神药",
+  "initials": "zs"
+ },
+ {
+  "name": "磁石",
+  "pinyin": "ci shi",
+  "category": "安神药",
+  "initials": "cs"
+ },
+ {
+  "name": "龙骨",
+  "pinyin": "long gu",
+  "category": "安神药",
+  "initials": "lg"
+ },
+ {
+  "name": "牡蛎",
+  "pinyin": "mu li",
+  "category": "安神药",
+  "initials": "ml"
+ },
+ {
+  "name": "酸枣仁",
+  "pinyin": "suan zao ren",
+  "category": "安神药",
+  "initials": "szr"
+ },
+ {
+  "name": "柏子仁",
+  "pinyin": "bai zi ren",
+  "category": "安神药",
+  "initials": "bzr"
+ },
+ {
+  "name": "远志",
+  "pinyin": "yuan zhi",
+  "category": "安神药",
+  "initials": "yz"
+ },
+ {
+  "name": "合欢皮",
+  "pinyin": "he huan pi",
+  "category": "安神药",
+  "initials": "hhp"
+ },
+ {
+  "name": "夜交藤",
+  "pinyin": "ye jiao teng",
+  "category": "安神药",
+  "initials": "yjt"
+ },
+ {
+  "name": "石决明",
+  "pinyin": "shi jue ming",
+  "category": "平肝息风药",
+  "initials": "sjm"
+ },
+ {
+  "name": "珍珠母",
+  "pinyin": "zhen zhu mu",
+  "category": "平肝息风药",
+  "initials": "zzm"
+ },
+ {
+  "name": "钩藤",
+  "pinyin": "gou teng",
+  "category": "平肝息风药",
+  "initials": "gt"
+ },
+ {
+  "name": "天麻",
+  "pinyin": "tian ma",
+  "category": "平肝息风药",
+  "initials": "tm"
+ },
+ {
+  "name": "地龙",
+  "pinyin": "de long",
+  "category": "平肝息风药",
+  "initials": "dl"
+ },
+ {
+  "name": "全蝎",
+  "pinyin": "quan xie",
+  "category": "平肝息风药",
+  "initials": "qx"
+ },
+ {
+  "name": "蜈蚣",
+  "pinyin": "wu gong",
+  "category": "平肝息风药",
+  "initials": "wg"
+ },
+ {
+  "name": "僵蚕",
+  "pinyin": "jiang can",
+  "category": "平肝息风药",
+  "initials": "jc"
+ },
+ {
+  "name": "羚羊角",
+  "pinyin": "ling yang jiao",
+  "category": "平肝息风药",
+  "initials": "lyj"
+ },
+ {
+  "name": "人参",
+  "pinyin": "ren shen",
+  "category": "补虚药",
+  "initials": "rs"
+ },
+ {
+  "name": "西洋参",
+  "pinyin": "xi yang shen",
+  "category": "补虚药",
+  "initials": "xys"
+ },
+ {
+  "name": "党参",
+  "pinyin": "dang shen",
+  "category": "补虚药",
+  "initials": "ds"
+ },
+ {
+  "name": "太子参",
+  "pinyin": "tai zi shen",
+  "category": "补虚药",
+  "initials": "tzs"
+ },
+ {
+  "name": "黄芪",
+  "pinyin": "huang qi",
+  "category": "补虚药",
+  "initials": "hq"
+ },
+ {
+  "name": "白术",
+  "pinyin": "bai zhu",
+  "category": "补虚药",
+  "initials": "bz"
+ },
+ {
+  "name": "山药",
+  "pinyin": "shan yao",
+  "category": "补虚药",
+  "initials": "sy"
+ },
+ {
+  "name": "甘草",
+  "pinyin": "gan cao",
+  "category": "补虚药",
+  "initials": "gc"
+ },
+ {
+  "name": "大枣",
+  "pinyin": "da zao",
+  "category": "补虚药",
+  "initials": "dz"
+ },
+ {
+  "name": "鹿茸",
+  "pinyin": "lu rong",
+  "category": "补虚药",
+  "initials": "lr"
+ },
+ {
+  "name": "淫羊藿",
+  "pinyin": "yin yang huo",
+  "category": "补虚药",
+  "initials": "yyh"
+ },
+ {
+  "name": "巴戟天",
+  "pinyin": "ba ji tian",
+  "category": "补虚药",
+  "initials": "bjt"
+ },
+ {
+  "name": "杜仲",
+  "pinyin": "du zhong",
+  "category": "补虚药",
+  "initials": "dz"
+ },
+ {
+  "name": "续断",
+  "pinyin": "xu duan",
+  "category": "补虚药",
+  "initials": "xd"
+ },
+ {
+  "name": "肉苁蓉",
+  "pinyin": "rou cong rong",
+  "category": "补虚药",
+  "initials": "rcr"
+ },
+ {
+  "name": "补骨脂",
+  "pinyin": "bu gu zhi",
+  "category": "补虚药",
+  "initials": "bgz"
+ },
+ {
+  "name": "菟丝子",
+  "pinyin": "tu si zi",
+  "category": "补虚药",
+  "initials": "tsz"
+ },
+ {
+  "name": "当归",
+  "pinyin": "dang gui",
+  "category": "补虚药",
+  "initials": "dg"
+ },
+ {
+  "name": "熟地黄",
+  "pinyin": "shu di huang",
+  "category": "补虚药",
+  "initials": "sdh"
+ },
+ {
+  "name": "白芍",
+  "pinyin": "bai shao",
+  "category": "补虚药",
+  "initials": "bs"
+ },
+ {
+  "name": "阿胶",
+  "pinyin": "e jiao",
+  "category": "补虚药",
+  "initials": "ej"
+ },
+ {
+  "name": "何首乌",
+  "pinyin": "he shou wu",
+  "category": "补虚药",
+  "initials": "hsw"
+ },
+ {
+  "name": "龙眼肉",
+  "pinyin": "long yan rou",
+  "category": "补虚药",
+  "initials": "lyr"
+ },
+ {
+  "name": "北沙参",
+  "pinyin": "bei sha shen",
+  "category": "补虚药",
+  "initials": "bss"
+ },
+ {
+  "name": "南沙参",
+  "pinyin": "nan sha shen",
+  "category": "补虚药",
+  "initials": "nss"
+ },
+ {
+  "name": "麦冬",
+  "pinyin": "mai dong",
+  "category": "补虚药",
+  "initials": "md"
+ },
+ {
+  "name": "天冬",
+  "pinyin": "tian dong",
+  "category": "补虚药",
+  "initials": "td"
+ },
+ {
+  "name": "石斛",
+  "pinyin": "shi hu",
+  "category": "补虚药",
+  "initials": "sh"
+ },
+ {
+  "name": "玉竹",
+  "pinyin": "yu zhu",
+  "category": "补虚药",
+  "initials": "yz"
+ },
+ {
+  "name": "黄精",
+  "pinyin": "huang jing",
+  "category": "补虚药",
+  "initials": "hj"
+ },
+ {
+  "name": "枸杞子",
+  "pinyin": "gou qi zi",
+  "category": "补虚药",
+  "initials": "gqz"
+ },
+ {
+  "name": "女贞子",
+  "pinyin": "nv zhen zi",
+  "category": "补虚药",
+  "initials": "nzz"
+ },
+ {
+  "name": "龟甲",
+  "pinyin": "gui jia",
+  "category": "补虚药",
+  "initials": "gj"
+ },
+ {
+  "name": "鳖甲",
+  "pinyin": "bie jia",
+  "category": "补虚药",
+  "initials": "bj"
+ },
+ {
+  "name": "五味子",
+  "pinyin": "wu wei zi",
+  "category": "收涩药",
+  "initials": "wwz"
+ },
+ {
+  "name": "乌梅",
+  "pinyin": "wu mei",
+  "category": "收涩药",
+  "initials": "wm"
+ },
+ {
+  "name": "山茱萸",
+  "pinyin": "shan zhu yu",
+  "category": "收涩药",
+  "initials": "szy"
+ },
+ {
+  "name": "桑螵蛸",
+  "pinyin": "sang piao shao",
+  "category": "收涩药",
+  "initials": "sps"
+ },
+ {
+  "name": "海螵蛸",
+  "pinyin": "hai piao xiao",
+  "category": "收涩药",
+  "initials": "hpx"
+ },
+ {
+  "name": "莲子",
+  "pinyin": "lian zi",
+  "category": "收涩药",
+  "initials": "lz"
+ },
+ {
+  "name": "芡实",
+  "pinyin": "qian shi",
+  "category": "收涩药",
+  "initials": "qs"
+ },
+ {
+  "name": "金樱子",
+  "pinyin": "jin ying zi",
+  "category": "收涩药",
+  "initials": "jyz"
+ },
+ {
+  "name": "葱白",
+  "pinyin": "cong bai",
+  "category": "解表药·发散风寒药",
+  "initials": "cb"
+ },
+ {
+  "name": "鹅不食草",
+  "pinyin": "e bu shi cao",
+  "category": "解表药·发散风寒药",
+  "initials": "ebsc"
+ },
+ {
+  "name": "胡荽",
+  "pinyin": "hu sui",
+  "category": "解表药·发散风寒药",
+  "initials": "hs"
+ },
+ {
+  "name": "柽柳",
+  "pinyin": "cheng liu",
+  "category": "解表药·发散风寒药",
+  "initials": "cl"
+ },
+ {
+  "name": "紫苏梗",
+  "pinyin": "zi su geng",
+  "category": "解表药·发散风寒药",
+  "initials": "zsg"
+ },
+ {
+  "name": "生姜皮",
+  "pinyin": "sheng jiang pi",
+  "category": "解表药·发散风寒药",
+  "initials": "sjp"
+ },
+ {
+  "name": "生姜汁",
+  "pinyin": "sheng jiang zhi",
+  "category": "解表药·发散风寒药",
+  "initials": "sjz"
+ },
+ {
+  "name": "煨姜",
+  "pinyin": "wei jiang",
+  "category": "解表药·发散风寒药",
+  "initials": "wj"
+ },
+ {
+  "name": "荆芥穗",
+  "pinyin": "jing jie sui",
+  "category": "解表药·发散风寒药",
+  "initials": "jjs"
+ },
+ {
+  "name": "木贼",
+  "pinyin": "mu zei",
+  "category": "解表药·发散风热药",
+  "initials": "mz"
+ },
+ {
+  "name": "野菊花",
+  "pinyin": "ye ju hua",
+  "category": "解表药·发散风热药",
+  "initials": "yjh"
+ },
+ {
+  "name": "寒水石",
+  "pinyin": "han shui shi",
+  "category": "清热药·清热泻火药",
+  "initials": "hss"
+ },
+ {
+  "name": "竹叶",
+  "pinyin": "zhu ye",
+  "category": "清热药·清热泻火药",
+  "initials": "zy"
+ },
+ {
+  "name": "鸭跖草",
+  "pinyin": "ya zhi cao",
+  "category": "清热药·清热泻火药",
+  "initials": "yzc"
+ },
+ {
+  "name": "密蒙花",
+  "pinyin": "mi meng hua",
+  "category": "清热药·清热泻火药",
+  "initials": "mmh"
+ },
+ {
+  "name": "青葙子",
+  "pinyin": "qing xiang zi",
+  "category": "清热药·清热泻火药",
+  "initials": "qxz"
+ },
+ {
+  "name": "谷精草",
+  "pinyin": "gu jing cao",
+  "category": "清热药·清热泻火药",
+  "initials": "gjc"
+ },
+ {
+  "name": "竹叶卷心",
+  "pinyin": "zhu ye juan xin",
+  "category": "清热药·清热泻火药",
+  "initials": "zyjx"
+ },
+ {
+  "name": "白鲜皮",
+  "pinyin": "bai xian pi",
+  "category": "清热药·清热燥湿药",
+  "initials": "bxp"
+ },
+ {
+  "name": "椿皮",
+  "pinyin": "chun pi",
+  "category": "清热药·清热燥湿药",
+  "initials": "cp"
+ },
+ {
+  "name": "三颗针",
+  "pinyin": "san ke zhen",
+  "category": "清热药·清热燥湿药",
+  "initials": "skz"
+ },
+ {
+  "name": "穿心莲",
+  "pinyin": "chuan xin lian",
+  "category": "清热药·清热解毒药",
+  "initials": "cxl"
+ },
+ {
+  "name": "青黛",
+  "pinyin": "qing dai",
+  "category": "清热药·清热解毒药",
+  "initials": "qd"
+ },
+ {
+  "name": "贯众",
+  "pinyin": "guan zhong",
+  "category": "清热药·清热解毒药",
+  "initials": "gz"
+ },
+ {
+  "name": "重楼",
+  "pinyin": "chong lou",
+  "category": "清热药·清热解毒药",
+  "initials": "cl"
+ },
+ {
+  "name": "拳参",
+  "pinyin": "quan can",
+  "category": "清热药·清热解毒药",
+  "initials": "qc"
+ },
+ {
+  "name": "漏芦",
+  "pinyin": "lou lu",
+  "category": "清热药·清热解毒药",
+  "initials": "ll"
+ },
+ {
+  "name": "土茯苓",
+  "pinyin": "tu fu ling",
+  "category": "清热药·清热解毒药",
+  "initials": "tfl"
+ },
+ {
+  "name": "金荞麦",
+  "pinyin": "jin qiao mai",
+  "category": "清热药·清热解毒药",
+  "initials": "jqm"
+ },
+ {
+  "name": "大血藤",
+  "pinyin": "da xue teng",
+  "category": "清热药·清热解毒药",
+  "initials": "dxt"
+ },
+ {
+  "name": "败酱草",
+  "pinyin": "bai jiang cao",
+  "category": "清热药·清热解毒药",
+  "initials": "bjc"
+ },
+ {
+  "name": "山豆根",
+  "pinyin": "shan dou gen",
+  "category": "清热药·清热解毒药",
+  "initials": "sdg"
+ },
+ {
+  "name": "马勃",
+  "pinyin": "ma bo",
+  "category": "清热药·清热解毒药",
+  "initials": "mb"
+ },
+ {
+  "name": "青果",
+  "pinyin": "qing guo",
+  "category": "清热药·清热解毒药",
+  "initials": "qg"
+ },
+ {
+  "name": "锦灯笼",
+  "pinyin": "jin deng long",
+  "category": "清热药·清热解毒药",
+  "initials": "jdl"
+ },
+ {
+  "name": "金果榄",
+  "pinyin": "jin guo lan",
+  "category": "清热药·清热解毒药",
+  "initials": "jgl"
+ },
+ {
+  "name": "木蝴蝶",
+  "pinyin": "mu hu die",
+  "category": "清热药·清热解毒药",
+  "initials": "mhd"
+ },
+ {
+  "name": "鸦胆子",
+  "pinyin": "ya dan zi",
+  "category": "清热药·清热解毒药",
+  "initials": "ydz"
+ },
+ {
+  "name": "半边莲",
+  "pinyin": "ban bian lian",
+  "category": "清热药·清热解毒药",
+  "initials": "bbl"
+ },
+ {
+  "name": "白花蛇舌草",
+  "pinyin": "bai hua she she cao",
+  "category": "清热药·清热解毒药",
+  "initials": "bhssc"
+ },
+ {
+  "name": "山慈菇",
+  "pinyin": "shan ci gu",
+  "category": "清热药·清热解毒药",
+  "initials": "scg"
+ },
+ {
+  "name": "地锦草",
+  "pinyin": "de jin cao",
+  "category": "清热药·清热解毒药",
+  "initials": "djc"
+ },
+ {
+  "name": "委陵菜",
+  "pinyin": "wei ling cai",
+  "category": "清热药·清热解毒药",
+  "initials": "wlc"
+ },
+ {
+  "name": "翻白草",
+  "pinyin": "fan bai cao",
+  "category": "清热药·清热解毒药",
+  "initials": "fbc"
+ },
+ {
+  "name": "四季青",
+  "pinyin": "si ji qing",
+  "category": "清热药·清热解毒药",
+  "initials": "sjq"
+ },
+ {
+  "name": "白蔹",
+  "pinyin": "bai lian",
+  "category": "清热药·清热解毒药",
+  "initials": "bl"
+ },
+ {
+  "name": "龙葵",
+  "pinyin": "long kui",
+  "category": "清热药·清热解毒药",
+  "initials": "lk"
+ },
+ {
+  "name": "蛇莓",
+  "pinyin": "she mei",
+  "category": "清热药·清热解毒药",
+  "initials": "sm"
+ },
+ {
+  "name": "水牛角",
+  "pinyin": "shui niu jiao",
+  "category": "清热药·清热凉血药",
+  "initials": "snj"
+ },
+ {
+  "name": "水牛角浓缩粉",
+  "pinyin": "shui niu jiao nong suo fen",
+  "category": "清热药·清热凉血药",
+  "initials": "snjnsf"
+ },
+ {
+  "name": "银柴胡",
+  "pinyin": "yin chai hu",
+  "category": "清热药·清虚热药",
+  "initials": "ych"
+ },
+ {
+  "name": "胡黄连",
+  "pinyin": "hu huang lian",
+  "category": "清热药·清虚热药",
+  "initials": "hhl"
+ },
+ {
+  "name": "番泻叶",
+  "pinyin": "fan xie ye",
+  "category": "泻下药·攻下药",
+  "initials": "fxy"
+ },
+ {
+  "name": "芦荟",
+  "pinyin": "lu hui",
+  "category": "泻下药·攻下药",
+  "initials": "lh"
+ },
+ {
+  "name": "玄明粉",
+  "pinyin": "xuan ming fen",
+  "category": "泻下药·攻下药",
+  "initials": "xmf"
+ },
+ {
+  "name": "松子仁",
+  "pinyin": "song zi ren",
+  "category": "泻下药·润下药",
+  "initials": "szr"
+ },
+ {
+  "name": "京大戟",
+  "pinyin": "jing da ji",
+  "category": "泻下药·峻下逐水药",
+  "initials": "jdj"
+ },
+ {
+  "name": "芫花",
+  "pinyin": "yan hua",
+  "category": "泻下药·峻下逐水药",
+  "initials": "yh"
+ },
+ {
+  "name": "商陆",
+  "pinyin": "shang lu",
+  "category": "泻下药·峻下逐水药",
+  "initials": "sl"
+ },
+ {
+  "name": "巴豆",
+  "pinyin": "ba dou",
+  "category": "泻下药·峻下逐水药",
+  "initials": "bd"
+ },
+ {
+  "name": "千金子",
+  "pinyin": "qian jin zi",
+  "category": "泻下药·峻下逐水药",
+  "initials": "qjz"
+ },
+ {
+  "name": "乌梢蛇",
+  "pinyin": "wu shao she",
+  "category": "祛风湿药·祛风寒湿药",
+  "initials": "wss"
+ },
+ {
+  "name": "金钱白花蛇",
+  "pinyin": "jin qian bai hua she",
+  "category": "祛风湿药·祛风寒湿药",
+  "initials": "jqbhs"
+ },
+ {
+  "name": "伸筋草",
+  "pinyin": "shen jin cao",
+  "category": "祛风湿药·祛风寒湿药",
+  "initials": "sjc"
+ },
+ {
+  "name": "寻骨风",
+  "pinyin": "xun gu feng",
+  "category": "祛风湿药·祛风寒湿药",
+  "initials": "xgf"
+ },
+ {
+  "name": "松节",
+  "pinyin": "song jie",
+  "category": "祛风湿药·祛风寒湿药",
+  "initials": "sj"
+ },
+ {
+  "name": "海风藤",
+  "pinyin": "hai feng teng",
+  "category": "祛风湿药·祛风寒湿药",
+  "initials": "hft"
+ },
+ {
+  "name": "青风藤",
+  "pinyin": "qing feng teng",
+  "category": "祛风湿药·祛风寒湿药",
+  "initials": "qft"
+ },
+ {
+  "name": "丁公藤",
+  "pinyin": "ding gong teng",
+  "category": "祛风湿药·祛风寒湿药",
+  "initials": "dgt"
+ },
+ {
+  "name": "昆明山海棠",
+  "pinyin": "kun ming shan hai tang",
+  "category": "祛风湿药·祛风寒湿药",
+  "initials": "kmsht"
+ },
+ {
+  "name": "路路通",
+  "pinyin": "lu lu tong",
+  "category": "祛风湿药·祛风寒湿药",
+  "initials": "llt"
+ },
+ {
+  "name": "穿山龙",
+  "pinyin": "chuan shan long",
+  "category": "祛风湿药·祛风寒湿药",
+  "initials": "csl"
+ },
+ {
+  "name": "老鹳草",
+  "pinyin": "lao guan cao",
+  "category": "祛风湿药·祛风寒湿药",
+  "initials": "lgc"
+ },
+ {
+  "name": "雷公藤",
+  "pinyin": "lei gong teng",
+  "category": "祛风湿药·祛风寒湿药",
+  "initials": "lgt"
+ },
+ {
+  "name": "臭梧桐",
+  "pinyin": "chou wu tong",
+  "category": "祛风湿药·祛风湿热药",
+  "initials": "cwt"
+ },
+ {
+  "name": "海桐皮",
+  "pinyin": "hai tong pi",
+  "category": "祛风湿药·祛风湿热药",
+  "initials": "htp"
+ },
+ {
+  "name": "丝瓜络",
+  "pinyin": "si gua luo",
+  "category": "祛风湿药·祛风湿热药",
+  "initials": "sgl"
+ },
+ {
+  "name": "忍冬藤",
+  "pinyin": "ren dong teng",
+  "category": "祛风湿药·祛风湿热药",
+  "initials": "rdt"
+ },
+ {
+  "name": "千年健",
+  "pinyin": "qian nian jian",
+  "category": "祛风湿药·祛风湿强筋骨药",
+  "initials": "qnj"
+ },
+ {
+  "name": "鹿衔草",
+  "pinyin": "lu xian cao",
+  "category": "祛风湿药·祛风湿强筋骨药",
+  "initials": "lxc"
+ },
+ {
+  "name": "石楠叶",
+  "pinyin": "shi nan ye",
+  "category": "祛风湿药·祛风湿强筋骨药",
+  "initials": "sny"
+ },
+ {
+  "name": "草豆蔻",
+  "pinyin": "cao dou kou",
+  "category": "化湿药",
+  "initials": "cdk"
+ },
+ {
+  "name": "砂仁壳",
+  "pinyin": "sha ren ke",
+  "category": "化湿药",
+  "initials": "srk"
+ },
+ {
+  "name": "玉米须",
+  "pinyin": "yu mi xu",
+  "category": "利水渗湿药·利水消肿药",
+  "initials": "ymx"
+ },
+ {
+  "name": "葫芦",
+  "pinyin": "hu lu",
+  "category": "利水渗湿药·利水消肿药",
+  "initials": "hl"
+ },
+ {
+  "name": "香加皮",
+  "pinyin": "xiang jia pi",
+  "category": "利水渗湿药·利水消肿药",
+  "initials": "xjp"
+ },
+ {
+  "name": "枳椇子",
+  "pinyin": "zhi ju zi",
+  "category": "利水渗湿药·利水消肿药",
+  "initials": "zjz"
+ },
+ {
+  "name": "泽漆",
+  "pinyin": "ze qi",
+  "category": "利水渗湿药·利水消肿药",
+  "initials": "zq"
+ },
+ {
+  "name": "蝼蛄",
+  "pinyin": "lou gu",
+  "category": "利水渗湿药·利水消肿药",
+  "initials": "lg"
+ },
+ {
+  "name": "荠菜",
+  "pinyin": "ji cai",
+  "category": "利水渗湿药·利水消肿药",
+  "initials": "jc"
+ },
+ {
+  "name": "车前草",
+  "pinyin": "che qian cao",
+  "category": "利水渗湿药·利尿通淋药",
+  "initials": "cqc"
+ },
+ {
+  "name": "地肤子",
+  "pinyin": "de fu zi",
+  "category": "利水渗湿药·利尿通淋药",
+  "initials": "dfz"
+ },
+ {
+  "name": "海金沙藤",
+  "pinyin": "hai jin sha teng",
+  "category": "利水渗湿药·利尿通淋药",
+  "initials": "hjst"
+ },
+ {
+  "name": "冬葵子",
+  "pinyin": "dong kui zi",
+  "category": "利水渗湿药·利尿通淋药",
+  "initials": "dkz"
+ },
+ {
+  "name": "灯心草",
+  "pinyin": "deng xin cao",
+  "category": "利水渗湿药·利尿通淋药",
+  "initials": "dxc"
+ },
+ {
+  "name": "萆薢",
+  "pinyin": "bi xie",
+  "category": "利水渗湿药·利尿通淋药",
+  "initials": "bx"
+ },
+ {
+  "name": "垂盆草",
+  "pinyin": "chui pen cao",
+  "category": "利水渗湿药·利湿退黄药",
+  "initials": "cpc"
+ },
+ {
+  "name": "地耳草",
+  "pinyin": "de er cao",
+  "category": "利水渗湿药·利湿退黄药",
+  "initials": "dec"
+ },
+ {
+  "name": "鸡骨草",
+  "pinyin": "ji gu cao",
+  "category": "利水渗湿药·利湿退黄药",
+  "initials": "jgc"
+ },
+ {
+  "name": "珍珠草",
+  "pinyin": "zhen zhu cao",
+  "category": "利水渗湿药·利湿退黄药",
+  "initials": "zzc"
+ },
+ {
+  "name": "胡椒",
+  "pinyin": "hu jiao",
+  "category": "温里药",
+  "initials": "hj"
+ },
+ {
+  "name": "荜茇",
+  "pinyin": "bi bo",
+  "category": "温里药",
+  "initials": "bb"
+ },
+ {
+  "name": "荜澄茄",
+  "pinyin": "bi cheng qie",
+  "category": "温里药",
+  "initials": "bcq"
+ },
+ {
+  "name": "八角茴香",
+  "pinyin": "ba jiao hui xiang",
+  "category": "温里药",
+  "initials": "bjhx"
+ },
+ {
+  "name": "刀豆",
+  "pinyin": "dao dou",
+  "category": "温里药",
+  "initials": "dd"
+ },
+ {
+  "name": "枳壳",
+  "pinyin": "zhi ke",
+  "category": "理气药",
+  "initials": "zk"
+ },
+ {
+  "name": "青木香",
+  "pinyin": "qing mu xiang",
+  "category": "理气药",
+  "initials": "qmx"
+ },
+ {
+  "name": "荔枝核",
+  "pinyin": "li zhi he",
+  "category": "理气药",
+  "initials": "lzh"
+ },
+ {
+  "name": "香橼",
+  "pinyin": "xiang yuan",
+  "category": "理气药",
+  "initials": "xy"
+ },
+ {
+  "name": "玫瑰花",
+  "pinyin": "mei gui hua",
+  "category": "理气药",
+  "initials": "mgh"
+ },
+ {
+  "name": "绿萼梅",
+  "pinyin": "lu e mei",
+  "category": "理气药",
+  "initials": "lem"
+ },
+ {
+  "name": "娑罗子",
+  "pinyin": "suo luo zi",
+  "category": "理气药",
+  "initials": "slz"
+ },
+ {
+  "name": "大腹皮",
+  "pinyin": "da fu pi",
+  "category": "理气药",
+  "initials": "dfp"
+ },
+ {
+  "name": "甘松",
+  "pinyin": "gan song",
+  "category": "理气药",
+  "initials": "gs"
+ },
+ {
+  "name": "九香虫",
+  "pinyin": "jiu xiang chong",
+  "category": "理气药",
+  "initials": "jxc"
+ },
+ {
+  "name": "稻芽",
+  "pinyin": "dao ya",
+  "category": "消食药",
+  "initials": "dy"
+ },
+ {
+  "name": "焦山楂",
+  "pinyin": "jiao shan zha",
+  "category": "消食药",
+  "initials": "jsz"
+ },
+ {
+  "name": "焦神曲",
+  "pinyin": "jiao shen qu",
+  "category": "消食药",
+  "initials": "jsq"
+ },
+ {
+  "name": "焦麦芽",
+  "pinyin": "jiao mai ya",
+  "category": "消食药",
+  "initials": "jmy"
+ },
+ {
+  "name": "炒谷芽",
+  "pinyin": "chao gu ya",
+  "category": "消食药",
+  "initials": "cgy"
+ },
+ {
+  "name": "使君子",
+  "pinyin": "shi jun zi",
+  "category": "驱虫药",
+  "initials": "sjz"
+ },
+ {
+  "name": "苦楝皮",
+  "pinyin": "ku lian pi",
+  "category": "驱虫药",
+  "initials": "klp"
+ },
+ {
+  "name": "槟榔",
+  "pinyin": "bin lang",
+  "category": "驱虫药",
+  "initials": "bl"
+ },
+ {
+  "name": "南瓜子",
+  "pinyin": "nan gua zi",
+  "category": "驱虫药",
+  "initials": "ngz"
+ },
+ {
+  "name": "鹤草芽",
+  "pinyin": "he cao ya",
+  "category": "驱虫药",
+  "initials": "hcy"
+ },
+ {
+  "name": "雷丸",
+  "pinyin": "lei wan",
+  "category": "驱虫药",
+  "initials": "lw"
+ },
+ {
+  "name": "鹤虱",
+  "pinyin": "he shi",
+  "category": "驱虫药",
+  "initials": "hs"
+ },
+ {
+  "name": "榧子",
+  "pinyin": "fei zi",
+  "category": "驱虫药",
+  "initials": "fz"
+ },
+ {
+  "name": "芜荑",
+  "pinyin": "wu ti",
+  "category": "驱虫药",
+  "initials": "wt"
+ },
+ {
+  "name": "槐角",
+  "pinyin": "huai jiao",
+  "category": "止血药·凉血止血药",
+  "initials": "hj"
+ },
+ {
+  "name": "苎麻根",
+  "pinyin": "zhu ma gen",
+  "category": "止血药·凉血止血药",
+  "initials": "zmg"
+ },
+ {
+  "name": "羊蹄",
+  "pinyin": "yang ti",
+  "category": "止血药·凉血止血药",
+  "initials": "yt"
+ },
+ {
+  "name": "花蕊石",
+  "pinyin": "hua rui shi",
+  "category": "止血药·化瘀止血药",
+  "initials": "hrs"
+ },
+ {
+  "name": "降香",
+  "pinyin": "jiang xiang",
+  "category": "止血药·化瘀止血药",
+  "initials": "jx"
+ },
+ {
+  "name": "紫珠叶",
+  "pinyin": "zi zhu ye",
+  "category": "止血药·收敛止血药",
+  "initials": "zzy"
+ },
+ {
+  "name": "棕榈炭",
+  "pinyin": "zong lu tan",
+  "category": "止血药·收敛止血药",
+  "initials": "zlt"
+ },
+ {
+  "name": "血余炭",
+  "pinyin": "xue yu tan",
+  "category": "止血药·收敛止血药",
+  "initials": "xyt"
+ },
+ {
+  "name": "藕节",
+  "pinyin": "ou jie",
+  "category": "止血药·收敛止血药",
+  "initials": "oj"
+ },
+ {
+  "name": "炮姜",
+  "pinyin": "pao jiang",
+  "category": "止血药·温经止血药",
+  "initials": "pj"
+ },
+ {
+  "name": "灶心土",
+  "pinyin": "zao xin tu",
+  "category": "止血药·温经止血药",
+  "initials": "zxt"
+ },
+ {
+  "name": "五灵脂",
+  "pinyin": "wu ling zhi",
+  "category": "活血化瘀药·活血止痛药",
+  "initials": "wlz"
+ },
+ {
+  "name": "夏天无",
+  "pinyin": "xia tian wu",
+  "category": "活血化瘀药·活血止痛药",
+  "initials": "xtw"
+ },
+ {
+  "name": "枫香脂",
+  "pinyin": "feng xiang zhi",
+  "category": "活血化瘀药·活血止痛药",
+  "initials": "fxz"
+ },
+ {
+  "name": "泽兰",
+  "pinyin": "ze lan",
+  "category": "活血化瘀药·活血调经药",
+  "initials": "zl"
+ },
+ {
+  "name": "川牛膝",
+  "pinyin": "chuan niu xi",
+  "category": "活血化瘀药·活血调经药",
+  "initials": "cnx"
+ },
+ {
+  "name": "王不留行",
+  "pinyin": "wang bu liu xing",
+  "category": "活血化瘀药·活血调经药",
+  "initials": "wblx"
+ },
+ {
+  "name": "月季花",
+  "pinyin": "yue ji hua",
+  "category": "活血化瘀药·活血调经药",
+  "initials": "yjh"
+ },
+ {
+  "name": "凌霄花",
+  "pinyin": "ling xiao hua",
+  "category": "活血化瘀药·活血调经药",
+  "initials": "lxh"
+ },
+ {
+  "name": "茺蔚子",
+  "pinyin": "chong wei zi",
+  "category": "活血化瘀药·活血调经药",
+  "initials": "cwz"
+ },
+ {
+  "name": "马钱子",
+  "pinyin": "ma qian zi",
+  "category": "活血化瘀药·活血疗伤药",
+  "initials": "mqz"
+ },
+ {
+  "name": "自然铜",
+  "pinyin": "zi ran tong",
+  "category": "活血化瘀药·活血疗伤药",
+  "initials": "zrt"
+ },
+ {
+  "name": "苏木",
+  "pinyin": "su mu",
+  "category": "活血化瘀药·活血疗伤药",
+  "initials": "sm"
+ },
+ {
+  "name": "骨碎补",
+  "pinyin": "gu sui bu",
+  "category": "活血化瘀药·活血疗伤药",
+  "initials": "gsb"
+ },
+ {
+  "name": "血竭",
+  "pinyin": "xue jie",
+  "category": "活血化瘀药·活血疗伤药",
+  "initials": "xj"
+ },
+ {
+  "name": "儿茶",
+  "pinyin": "er cha",
+  "category": "活血化瘀药·活血疗伤药",
+  "initials": "ec"
+ },
+ {
+  "name": "刘寄奴",
+  "pinyin": "liu ji nu",
+  "category": "活血化瘀药·活血疗伤药",
+  "initials": "ljn"
+ },
+ {
+  "name": "虻虫",
+  "pinyin": "meng chong",
+  "category": "活血化瘀药·破血消癥药",
+  "initials": "mc"
+ },
+ {
+  "name": "斑蝥",
+  "pinyin": "ban mao",
+  "category": "活血化瘀药·破血消癥药",
+  "initials": "bm"
+ },
+ {
+  "name": "穿山甲",
+  "pinyin": "chuan shan jia",
+  "category": "活血化瘀药·破血消癥药",
+  "initials": "csj"
+ },
+ {
+  "name": "皂荚",
+  "pinyin": "zao jia",
+  "category": "化痰止咳平喘药·温化寒痰药",
+  "initials": "zj"
+ },
+ {
+  "name": "皂角刺",
+  "pinyin": "zao jiao ci",
+  "category": "化痰止咳平喘药·温化寒痰药",
+  "initials": "zjc"
+ },
+ {
+  "name": "瓜蒌皮",
+  "pinyin": "gua lou pi",
+  "category": "化痰止咳平喘药·清化热痰药",
+  "initials": "glp"
+ },
+ {
+  "name": "瓜蒌子",
+  "pinyin": "gua lou zi",
+  "category": "化痰止咳平喘药·清化热痰药",
+  "initials": "glz"
+ },
+ {
+  "name": "天竺黄",
+  "pinyin": "tian zhu huang",
+  "category": "化痰止咳平喘药·清化热痰药",
+  "initials": "tzh"
+ },
+ {
+  "name": "前胡",
+  "pinyin": "qian hu",
+  "category": "化痰止咳平喘药·清化热痰药",
+  "initials": "qh"
+ },
+ {
+  "name": "海藻",
+  "pinyin": "hai zao",
+  "category": "化痰止咳平喘药·清化热痰药",
+  "initials": "hz"
+ },
+ {
+  "name": "昆布",
+  "pinyin": "kun bu",
+  "category": "化痰止咳平喘药·清化热痰药",
+  "initials": "kb"
+ },
+ {
+  "name": "黄药子",
+  "pinyin": "huang yao zi",
+  "category": "化痰止咳平喘药·清化热痰药",
+  "initials": "hyz"
+ },
+ {
+  "name": "海蛤壳",
+  "pinyin": "hai ge qiao",
+  "category": "化痰止咳平喘药·清化热痰药",
+  "initials": "hgq"
+ },
+ {
+  "name": "海浮石",
+  "pinyin": "hai fu shi",
+  "category": "化痰止咳平喘药·清化热痰药",
+  "initials": "hfs"
+ },
+ {
+  "name": "瓦楞子",
+  "pinyin": "wa leng zi",
+  "category": "化痰止咳平喘药·清化热痰药",
+  "initials": "wlz"
+ },
+ {
+  "name": "礞石",
+  "pinyin": "meng shi",
+  "category": "化痰止咳平喘药·清化热痰药",
+  "initials": "ms"
+ },
+ {
+  "name": "马兜铃",
+  "pinyin": "ma dou ling",
+  "category": "化痰止咳平喘药·止咳平喘药",
+  "initials": "mdl"
+ },
+ {
+  "name": "矮地茶",
+  "pinyin": "ai de cha",
+  "category": "化痰止咳平喘药·止咳平喘药",
+  "initials": "adc"
+ },
+ {
+  "name": "洋金花",
+  "pinyin": "yang jin hua",
+  "category": "化痰止咳平喘药·止咳平喘药",
+  "initials": "yjh"
+ },
+ {
+  "name": "龙齿",
+  "pinyin": "long chi",
+  "category": "安神药·重镇安神药",
+  "initials": "lc"
+ },
+ {
+  "name": "琥珀",
+  "pinyin": "hu po",
+  "category": "安神药·重镇安神药",
+  "initials": "hp"
+ },
+ {
+  "name": "灵芝",
+  "pinyin": "ling zhi",
+  "category": "安神药·养心安神药",
+  "initials": "lz"
+ },
+ {
+  "name": "缬草",
+  "pinyin": "xie cao",
+  "category": "安神药·养心安神药",
+  "initials": "xc"
+ },
+ {
+  "name": "首乌藤",
+  "pinyin": "shou wu teng",
+  "category": "安神药·养心安神药",
+  "initials": "swt"
+ },
+ {
+  "name": "合欢花",
+  "pinyin": "he huan hua",
+  "category": "安神药·养心安神药",
+  "initials": "hhh"
+ },
+ {
+  "name": "珍珠",
+  "pinyin": "zhen zhu",
+  "category": "平肝息风药·平抑肝阳药",
+  "initials": "zz"
+ },
+ {
+  "name": "紫贝齿",
+  "pinyin": "zi bei chi",
+  "category": "平肝息风药·平抑肝阳药",
+  "initials": "zbc"
+ },
+ {
+  "name": "代赭石",
+  "pinyin": "dai zhe shi",
+  "category": "平肝息风药·平抑肝阳药",
+  "initials": "dzs"
+ },
+ {
+  "name": "刺蒺藜",
+  "pinyin": "ci ji li",
+  "category": "平肝息风药·平抑肝阳药",
+  "initials": "cjl"
+ },
+ {
+  "name": "罗布麻叶",
+  "pinyin": "luo bu ma ye",
+  "category": "平肝息风药·平抑肝阳药",
+  "initials": "lbmy"
+ },
+ {
+  "name": "生铁落",
+  "pinyin": "sheng tie luo",
+  "category": "平肝息风药·平抑肝阳药",
+  "initials": "stl"
+ },
+ {
+  "name": "牛黄",
+  "pinyin": "niu huang",
+  "category": "平肝息风药·息风止痉药",
+  "initials": "nh"
+ },
+ {
+  "name": "麝香",
+  "pinyin": "she xiang",
+  "category": "开窍药",
+  "initials": "sx"
+ },
+ {
+  "name": "冰片",
+  "pinyin": "bing pian",
+  "category": "开窍药",
+  "initials": "bp"
+ },
+ {
+  "name": "苏合香",
+  "pinyin": "su he xiang",
+  "category": "开窍药",
+  "initials": "shx"
+ },
+ {
+  "name": "石菖蒲",
+  "pinyin": "shi chang pu",
+  "category": "开窍药",
+  "initials": "scp"
+ },
+ {
+  "name": "蟾酥",
+  "pinyin": "chan su",
+  "category": "开窍药",
+  "initials": "cs"
+ },
+ {
+  "name": "安息香",
+  "pinyin": "an xi xiang",
+  "category": "开窍药",
+  "initials": "axx"
+ },
+ {
+  "name": "白扁豆",
+  "pinyin": "bai bian dou",
+  "category": "补虚药·补气药",
+  "initials": "bbd"
+ },
+ {
+  "name": "饴糖",
+  "pinyin": "yi tang",
+  "category": "补虚药·补气药",
+  "initials": "yt"
+ },
+ {
+  "name": "蜂蜜",
+  "pinyin": "feng mi",
+  "category": "补虚药·补气药",
+  "initials": "fm"
+ },
+ {
+  "name": "红参",
+  "pinyin": "hong can",
+  "category": "补虚药·补气药",
+  "initials": "hc"
+ },
+ {
+  "name": "生晒参",
+  "pinyin": "sheng shai can",
+  "category": "补虚药·补气药",
+  "initials": "ssc"
+ },
+ {
+  "name": "人参叶",
+  "pinyin": "ren shen ye",
+  "category": "补虚药·补气药",
+  "initials": "rsy"
+ },
+ {
+  "name": "白扁豆花",
+  "pinyin": "bai bian dou hua",
+  "category": "补虚药·补气药",
+  "initials": "bbdh"
+ },
+ {
+  "name": "紫河车",
+  "pinyin": "zi he che",
+  "category": "补虚药·补阳药",
+  "initials": "zhc"
+ },
+ {
+  "name": "仙茅",
+  "pinyin": "xian mao",
+  "category": "补虚药·补阳药",
+  "initials": "xm"
+ },
+ {
+  "name": "锁阳",
+  "pinyin": "suo yang",
+  "category": "补虚药·补阳药",
+  "initials": "sy"
+ },
+ {
+  "name": "益智仁",
+  "pinyin": "yi zhi ren",
+  "category": "补虚药·补阳药",
+  "initials": "yzr"
+ },
+ {
+  "name": "沙苑子",
+  "pinyin": "sha yuan zi",
+  "category": "补虚药·补阳药",
+  "initials": "syz"
+ },
+ {
+  "name": "蛤蚧",
+  "pinyin": "ha jie",
+  "category": "补虚药·补阳药",
+  "initials": "hj"
+ },
+ {
+  "name": "核桃仁",
+  "pinyin": "he tao ren",
+  "category": "补虚药·补阳药",
+  "initials": "htr"
+ },
+ {
+  "name": "冬虫夏草",
+  "pinyin": "dong chong xia cao",
+  "category": "补虚药·补阳药",
+  "initials": "dcxc"
+ },
+ {
+  "name": "胡芦巴",
+  "pinyin": "hu lu ba",
+  "category": "补虚药·补阳药",
+  "initials": "hlb"
+ },
+ {
+  "name": "韭菜子",
+  "pinyin": "jiu cai zi",
+  "category": "补虚药·补阳药",
+  "initials": "jcz"
+ },
+ {
+  "name": "阳起石",
+  "pinyin": "yang qi shi",
+  "category": "补虚药·补阳药",
+  "initials": "yqs"
+ },
+ {
+  "name": "鹿角胶",
+  "pinyin": "lu jiao jiao",
+  "category": "补虚药·补阳药",
+  "initials": "ljj"
+ },
+ {
+  "name": "鹿角霜",
+  "pinyin": "lu jiao shuang",
+  "category": "补虚药·补阳药",
+  "initials": "ljs"
+ },
+ {
+  "name": "鹿角",
+  "pinyin": "lu jiao",
+  "category": "补虚药·补阳药",
+  "initials": "lj"
+ },
+ {
+  "name": "阿胶珠",
+  "pinyin": "e jiao zhu",
+  "category": "补虚药·补血药",
+  "initials": "ejz"
+ },
+ {
+  "name": "制首乌",
+  "pinyin": "zhi shou wu",
+  "category": "补虚药·补血药",
+  "initials": "zsw"
+ },
+ {
+  "name": "百合",
+  "pinyin": "bai he",
+  "category": "补虚药·补阴药",
+  "initials": "bh"
+ },
+ {
+  "name": "墨旱莲",
+  "pinyin": "mo han lian",
+  "category": "补虚药·补阴药",
+  "initials": "mhl"
+ },
+ {
+  "name": "桑椹",
+  "pinyin": "sang shen",
+  "category": "补虚药·补阴药",
+  "initials": "ss"
+ },
+ {
+  "name": "黑芝麻",
+  "pinyin": "hei zhi ma",
+  "category": "补虚药·补阴药",
+  "initials": "hzm"
+ },
+ {
+  "name": "龟甲胶",
+  "pinyin": "gui jia jiao",
+  "category": "补虚药·补阴药",
+  "initials": "gjj"
+ },
+ {
+  "name": "鳖甲胶",
+  "pinyin": "bie jia jiao",
+  "category": "补虚药·补阴药",
+  "initials": "bjj"
+ },
+ {
+  "name": "麻黄根",
+  "pinyin": "ma huang gen",
+  "category": "收涩药·固表止汗药",
+  "initials": "mhg"
+ },
+ {
+  "name": "浮小麦",
+  "pinyin": "fu xiao mai",
+  "category": "收涩药·固表止汗药",
+  "initials": "fxm"
+ },
+ {
+  "name": "糯稻根",
+  "pinyin": "nuo dao gen",
+  "category": "收涩药·固表止汗药",
+  "initials": "ndg"
+ },
+ {
+  "name": "五倍子",
+  "pinyin": "wu bei zi",
+  "category": "收涩药·敛肺涩肠药",
+  "initials": "wbz"
+ },
+ {
+  "name": "罂粟壳",
+  "pinyin": "ying su ke",
+  "category": "收涩药·敛肺涩肠药",
+  "initials": "ysk"
+ },
+ {
+  "name": "诃子",
+  "pinyin": "he zi",
+  "category": "收涩药·敛肺涩肠药",
+  "initials": "hz"
+ },
+ {
+  "name": "石榴皮",
+  "pinyin": "shi liu pi",
+  "category": "收涩药·敛肺涩肠药",
+  "initials": "slp"
+ },
+ {
+  "name": "肉豆蔻",
+  "pinyin": "rou dou kou",
+  "category": "收涩药·敛肺涩肠药",
+  "initials": "rdk"
+ },
+ {
+  "name": "赤石脂",
+  "pinyin": "chi shi zhi",
+  "category": "收涩药·敛肺涩肠药",
+  "initials": "csz"
+ },
+ {
+  "name": "禹余粮",
+  "pinyin": "yu yu liang",
+  "category": "收涩药·敛肺涩肠药",
+  "initials": "yyl"
+ },
+ {
+  "name": "覆盆子",
+  "pinyin": "fu pen zi",
+  "category": "收涩药·固精缩尿止带药",
+  "initials": "fpz"
+ },
+ {
+  "name": "刺猬皮",
+  "pinyin": "ci wei pi",
+  "category": "收涩药·固精缩尿止带药",
+  "initials": "cwp"
+ },
+ {
+  "name": "常山",
+  "pinyin": "chang shan",
+  "category": "涌吐药",
+  "initials": "cs"
+ },
+ {
+  "name": "瓜蒂",
+  "pinyin": "gua di",
+  "category": "涌吐药",
+  "initials": "gd"
+ },
+ {
+  "name": "胆矾",
+  "pinyin": "dan fan",
+  "category": "涌吐药",
+  "initials": "df"
+ },
+ {
+  "name": "藜芦",
+  "pinyin": "li lu",
+  "category": "涌吐药",
+  "initials": "ll"
+ },
+ {
+  "name": "雄黄",
+  "pinyin": "xiong huang",
+  "category": "攻毒杀虫止痒药",
+  "initials": "xh"
+ },
+ {
+  "name": "硫黄",
+  "pinyin": "liu huang",
+  "category": "攻毒杀虫止痒药",
+  "initials": "lh"
+ },
+ {
+  "name": "白矾",
+  "pinyin": "bai fan",
+  "category": "攻毒杀虫止痒药",
+  "initials": "bf"
+ },
+ {
+  "name": "蛇床子",
+  "pinyin": "she chuang zi",
+  "category": "攻毒杀虫止痒药",
+  "initials": "scz"
+ },
+ {
+  "name": "樟脑",
+  "pinyin": "zhang nao",
+  "category": "攻毒杀虫止痒药",
+  "initials": "zn"
+ },
+ {
+  "name": "木鳖子",
+  "pinyin": "mu bie zi",
+  "category": "攻毒杀虫止痒药",
+  "initials": "mbz"
+ },
+ {
+  "name": "土荆皮",
+  "pinyin": "tu jing pi",
+  "category": "攻毒杀虫止痒药",
+  "initials": "tjp"
+ },
+ {
+  "name": "蜂房",
+  "pinyin": "feng fang",
+  "category": "攻毒杀虫止痒药",
+  "initials": "ff"
+ },
+ {
+  "name": "大蒜",
+  "pinyin": "da suan",
+  "category": "攻毒杀虫止痒药",
+  "initials": "ds"
+ },
+ {
+  "name": "红粉",
+  "pinyin": "hong fen",
+  "category": "拔毒化腐生肌药",
+  "initials": "hf"
+ },
+ {
+  "name": "轻粉",
+  "pinyin": "qing fen",
+  "category": "拔毒化腐生肌药",
+  "initials": "qf"
+ },
+ {
+  "name": "炉甘石",
+  "pinyin": "lu gan shi",
+  "category": "拔毒化腐生肌药",
+  "initials": "lgs"
+ },
+ {
+  "name": "硼砂",
+  "pinyin": "peng sha",
+  "category": "拔毒化腐生肌药",
+  "initials": "ps"
+ },
+ {
+  "name": "白降丹",
+  "pinyin": "bai jiang dan",
+  "category": "拔毒化腐生肌药",
+  "initials": "bjd"
+ },
+ {
+  "name": "千里光",
+  "pinyin": "qian li guang",
+  "category": "清热药·清热解毒药",
+  "initials": "qlg"
+ },
+ {
+  "name": "苦地丁",
+  "pinyin": "ku de ding",
+  "category": "清热药·清热解毒药",
+  "initials": "kdd"
+ },
+ {
+  "name": "北豆根",
+  "pinyin": "bei dou gen",
+  "category": "清热药·清热解毒药",
+  "initials": "bdg"
+ },
+ {
+  "name": "肿节风",
+  "pinyin": "zhong jie feng",
+  "category": "清热药·清热解毒药",
+  "initials": "zjf"
+ },
+ {
+  "name": "金莲花",
+  "pinyin": "jin lian hua",
+  "category": "清热药·清热解毒药",
+  "initials": "jlh"
+ },
+ {
+  "name": "白英",
+  "pinyin": "bai ying",
+  "category": "清热药·清热解毒药",
+  "initials": "by"
+ },
+ {
+  "name": "马兰",
+  "pinyin": "ma lan",
+  "category": "清热药·清热解毒药",
+  "initials": "ml"
+ },
+ {
+  "name": "葎草",
+  "pinyin": "lu cao",
+  "category": "清热药·清热解毒药",
+  "initials": "lc"
+ },
+ {
+  "name": "天葵子",
+  "pinyin": "tian kui zi",
+  "category": "清热药·清热解毒药",
+  "initials": "tkz"
+ },
+ {
+  "name": "芙蓉叶",
+  "pinyin": "fu rong ye",
+  "category": "清热药·清热解毒药",
+  "initials": "fry"
+ },
+ {
+  "name": "地胆草",
+  "pinyin": "de dan cao",
+  "category": "清热药·清热解毒药",
+  "initials": "ddc"
+ },
+ {
+  "name": "绿豆",
+  "pinyin": "lu dou",
+  "category": "清热药·清热解毒药",
+  "initials": "ld"
+ },
+ {
+  "name": "西瓜皮",
+  "pinyin": "xi gua pi",
+  "category": "清热药·清热泻火药",
+  "initials": "xgp"
+ },
+ {
+  "name": "荷叶",
+  "pinyin": "he ye",
+  "category": "清热药·清热解暑药",
+  "initials": "hy"
+ },
+ {
+  "name": "荷梗",
+  "pinyin": "he geng",
+  "category": "清热药·清热解暑药",
+  "initials": "hg"
+ },
+ {
+  "name": "五指毛桃",
+  "pinyin": "wu zhi mao tao",
+  "category": "补虚药·补气药",
+  "initials": "wzmt"
+ },
+ {
+  "name": "绞股蓝",
+  "pinyin": "jiao gu lan",
+  "category": "补虚药·补气药",
+  "initials": "jgl"
+ },
+ {
+  "name": "红景天",
+  "pinyin": "hong jing tian",
+  "category": "补虚药·补气药",
+  "initials": "hjt"
+ },
+ {
+  "name": "刺五加",
+  "pinyin": "ci wu jia",
+  "category": "补虚药·补气药",
+  "initials": "cwj"
+ },
+ {
+  "name": "沙棘",
+  "pinyin": "sha ji",
+  "category": "补虚药·补气药",
+  "initials": "sj"
+ },
+ {
+  "name": "竹节参",
+  "pinyin": "zhu jie can",
+  "category": "补虚药·补气药",
+  "initials": "zjc"
+ },
+ {
+  "name": "珠子参",
+  "pinyin": "zhu zi can",
+  "category": "补虚药·补气药",
+  "initials": "zzc"
+ },
+ {
+  "name": "海马",
+  "pinyin": "hai ma",
+  "category": "补虚药·补阳药",
+  "initials": "hm"
+ },
+ {
+  "name": "鹿胎",
+  "pinyin": "lu tai",
+  "category": "补虚药·补阳药",
+  "initials": "lt"
+ },
+ {
+  "name": "海狗肾",
+  "pinyin": "hai gou shen",
+  "category": "补虚药·补阳药",
+  "initials": "hgs"
+ },
+ {
+  "name": "海龙",
+  "pinyin": "hai long",
+  "category": "补虚药·补阳药",
+  "initials": "hl"
+ },
+ {
+  "name": "脐带",
+  "pinyin": "qi dai",
+  "category": "补虚药·补阳药",
+  "initials": "qd"
+ },
+ {
+  "name": "牛大力",
+  "pinyin": "niu da li",
+  "category": "补虚药·补阳药",
+  "initials": "ndl"
+ },
+ {
+  "name": "银耳",
+  "pinyin": "yin er",
+  "category": "补虚药·补阴药",
+  "initials": "ye"
+ },
+ {
+  "name": "燕窝",
+  "pinyin": "yan wo",
+  "category": "补虚药·补阴药",
+  "initials": "yw"
+ },
+ {
+  "name": "鱼鳔胶",
+  "pinyin": "yu biao jiao",
+  "category": "补虚药·补阴药",
+  "initials": "ybj"
+ },
+ {
+  "name": "蛤蟆油",
+  "pinyin": "ha ma you",
+  "category": "补虚药·补阴药",
+  "initials": "hmy"
+ },
+ {
+  "name": "明党参",
+  "pinyin": "ming dang shen",
+  "category": "补虚药·补阴药",
+  "initials": "mds"
+ },
+ {
+  "name": "黑豆",
+  "pinyin": "hei dou",
+  "category": "补虚药·补阴药",
+  "initials": "hd"
+ },
+ {
+  "name": "鸡冠花",
+  "pinyin": "ji guan hua",
+  "category": "收涩药·固精缩尿止带药",
+  "initials": "jgh"
+ },
+ {
+  "name": "莲房",
+  "pinyin": "lian fang",
+  "category": "收涩药·固精缩尿止带药",
+  "initials": "lf"
+ },
+ {
+  "name": "桃金娘",
+  "pinyin": "tao jin niang",
+  "category": "收涩药·固精缩尿止带药",
+  "initials": "tjn"
+ },
+ {
+  "name": "莲须",
+  "pinyin": "lian xu",
+  "category": "收涩药·固精缩尿止带药",
+  "initials": "lx"
+ },
+ {
+  "name": "土木香",
+  "pinyin": "tu mu xiang",
+  "category": "理气药",
+  "initials": "tmx"
+ },
+ {
+  "name": "蜘蛛香",
+  "pinyin": "zhi zhu xiang",
+  "category": "理气药",
+  "initials": "zzx"
+ },
+ {
+  "name": "川木香",
+  "pinyin": "chuan mu xiang",
+  "category": "理气药",
+  "initials": "cmx"
+ },
+ {
+  "name": "急性子",
+  "pinyin": "ji xing zi",
+  "category": "活血化瘀药·活血止痛药",
+  "initials": "jxz"
+ },
+ {
+  "name": "干漆",
+  "pinyin": "gan qi",
+  "category": "活血化瘀药·活血止痛药",
+  "initials": "gq"
+ },
+ {
+  "name": "水红花子",
+  "pinyin": "shui hong hua zi",
+  "category": "活血化瘀药·活血止痛药",
+  "initials": "shhz"
+ },
+ {
+  "name": "毛冬青",
+  "pinyin": "mao dong qing",
+  "category": "活血化瘀药·活血止痛药",
+  "initials": "mdq"
+ },
+ {
+  "name": "银杏叶",
+  "pinyin": "yin xing ye",
+  "category": "活血化瘀药·活血止痛药",
+  "initials": "yxy"
+ },
+ {
+  "name": "凤仙花",
+  "pinyin": "feng xian hua",
+  "category": "活血化瘀药·活血止痛药",
+  "initials": "fxh"
+ },
+ {
+  "name": "断血流",
+  "pinyin": "duan xue liu",
+  "category": "止血药·收敛止血药",
+  "initials": "dxl"
+ },
+ {
+  "name": "松花粉",
+  "pinyin": "song hua fen",
+  "category": "止血药·收敛止血药",
+  "initials": "shf"
+ },
+ {
+  "name": "墓头回",
+  "pinyin": "mu tou hui",
+  "category": "止血药·收敛止血药",
+  "initials": "mth"
+ },
+ {
+  "name": "猫爪草",
+  "pinyin": "mao zhao cao",
+  "category": "化痰止咳平喘药·清化热痰药",
+  "initials": "mzc"
+ },
+ {
+  "name": "猴枣",
+  "pinyin": "hou zao",
+  "category": "化痰止咳平喘药·清化热痰药",
+  "initials": "hz"
+ },
+ {
+  "name": "猪胆汁",
+  "pinyin": "zhu dan zhi",
+  "category": "化痰止咳平喘药·清化热痰药",
+  "initials": "zdz"
+ },
+ {
+  "name": "满山红",
+  "pinyin": "man shan hong",
+  "category": "化痰止咳平喘药·清化热痰药",
+  "initials": "msh"
+ },
+ {
+  "name": "祖师麻",
+  "pinyin": "zu shi ma",
+  "category": "祛风湿药·祛风寒湿药",
+  "initials": "zsm"
+ },
+ {
+  "name": "雪莲花",
+  "pinyin": "xue lian hua",
+  "category": "祛风湿药·祛风寒湿药",
+  "initials": "xlh"
+ },
+ {
+  "name": "宽筋藤",
+  "pinyin": "kuan jin teng",
+  "category": "祛风湿药·祛风寒湿药",
+  "initials": "kjt"
+ },
+ {
+  "name": "半枫荷",
+  "pinyin": "ban feng he",
+  "category": "祛风湿药·祛风寒湿药",
+  "initials": "bfh"
+ },
+ {
+  "name": "槲寄生",
+  "pinyin": "hu ji sheng",
+  "category": "祛风湿药·祛风寒湿药",
+  "initials": "hjs"
+ },
+ {
+  "name": "蛇蜕",
+  "pinyin": "she tui",
+  "category": "祛风湿药·祛风寒湿药",
+  "initials": "st"
+ },
+ {
+  "name": "茯苓皮",
+  "pinyin": "fu ling pi",
+  "category": "利水渗湿药·利水消肿药",
+  "initials": "flp"
+ },
+ {
+  "name": "赤小豆",
+  "pinyin": "chi xiao dou",
+  "category": "利水渗湿药·利水消肿药",
+  "initials": "cxd"
+ },
+ {
+  "name": "辣椒",
+  "pinyin": "la jiao",
+  "category": "温里药",
+  "initials": "lj"
+ },
+ {
+  "name": "红豆蔻",
+  "pinyin": "hong dou kou",
+  "category": "温里药",
+  "initials": "hdk"
+ },
+ {
+  "name": "山柰",
+  "pinyin": "shan nai",
+  "category": "温里药",
+  "initials": "sn"
+ },
+ {
+  "name": "鸡矢藤",
+  "pinyin": "ji shi teng",
+  "category": "消食药",
+  "initials": "jst"
+ },
+ {
+  "name": "隔山消",
+  "pinyin": "ge shan xiao",
+  "category": "消食药",
+  "initials": "gsx"
+ },
+ {
+  "name": "阿魏",
+  "pinyin": "a wei",
+  "category": "消食药",
+  "initials": "aw"
+ },
+ {
+  "name": "布渣叶",
+  "pinyin": "bu zha ye",
+  "category": "消食药",
+  "initials": "bzy"
+ },
+ {
+  "name": "松香",
+  "pinyin": "song xiang",
+  "category": "攻毒杀虫止痒药",
+  "initials": "sx"
+ },
+ {
+  "name": "法半夏",
+  "pinyin": "fa ban xia",
+  "category": "化痰药·温化寒痰药",
+  "initials": "fbx"
+ },
+ {
+  "name": "姜半夏",
+  "pinyin": "jiang ban xia",
+  "category": "化痰药·温化寒痰药",
+  "initials": "jbx"
+ },
+ {
+  "name": "清半夏",
+  "pinyin": "qing ban xia",
+  "category": "化痰药·温化寒痰药",
+  "initials": "qbx"
+ },
+ {
+  "name": "半夏曲",
+  "pinyin": "ban xia qu",
+  "category": "化痰药·温化寒痰药",
+  "initials": "bxq"
+ },
+ {
+  "name": "胆南星",
+  "pinyin": "dan nan xing",
+  "category": "化痰药·清化热痰药",
+  "initials": "dnx"
+ },
+ {
+  "name": "制天南星",
+  "pinyin": "zhi tian nan xing",
+  "category": "化痰药·温化寒痰药",
+  "initials": "ztnx"
+ },
+ {
+  "name": "酒大黄",
+  "pinyin": "jiu da huang",
+  "category": "泻下药·攻下药",
+  "initials": "jdh"
+ },
+ {
+  "name": "熟大黄",
+  "pinyin": "shu da huang",
+  "category": "泻下药·攻下药",
+  "initials": "sdh"
+ },
+ {
+  "name": "大黄炭",
+  "pinyin": "da huang tan",
+  "category": "泻下药·攻下药",
+  "initials": "dht"
+ },
+ {
+  "name": "醋大黄",
+  "pinyin": "cu da huang",
+  "category": "泻下药·攻下药",
+  "initials": "cdh"
+ },
+ {
+  "name": "麸炒白术",
+  "pinyin": "fu chao bai zhu",
+  "category": "补虚药·补气药",
+  "initials": "fcbz"
+ },
+ {
+  "name": "炒白术",
+  "pinyin": "chao bai zhu",
+  "category": "补虚药·补气药",
+  "initials": "cbz"
+ },
+ {
+  "name": "土炒白术",
+  "pinyin": "tu chao bai zhu",
+  "category": "补虚药·补气药",
+  "initials": "tcbz"
+ },
+ {
+  "name": "焦白术",
+  "pinyin": "jiao bai zhu",
+  "category": "补虚药·补气药",
+  "initials": "jbz"
+ },
+ {
+  "name": "蜜黄芪",
+  "pinyin": "mi huang qi",
+  "category": "补虚药·补气药",
+  "initials": "mhq"
+ },
+ {
+  "name": "炙黄芪",
+  "pinyin": "zhi huang qi",
+  "category": "补虚药·补气药",
+  "initials": "zhq"
+ },
+ {
+  "name": "炒山药",
+  "pinyin": "chao shan yao",
+  "category": "补虚药·补气药",
+  "initials": "csy"
+ },
+ {
+  "name": "麸炒山药",
+  "pinyin": "fu chao shan yao",
+  "category": "补虚药·补气药",
+  "initials": "fcsy"
+ },
+ {
+  "name": "炒白扁豆",
+  "pinyin": "chao bai bian dou",
+  "category": "补虚药·补气药",
+  "initials": "cbbd"
+ },
+ {
+  "name": "炒甘草",
+  "pinyin": "chao gan cao",
+  "category": "补虚药·补气药",
+  "initials": "cgc"
+ },
+ {
+  "name": "炙甘草",
+  "pinyin": "zhi gan cao",
+  "category": "补虚药·补气药",
+  "initials": "zgc"
+ },
+ {
+  "name": "蜜甘草",
+  "pinyin": "mi gan cao",
+  "category": "补虚药·补气药",
+  "initials": "mgc"
+ },
+ {
+  "name": "酒当归",
+  "pinyin": "jiu dang gui",
+  "category": "补虚药·补血药",
+  "initials": "jdg"
+ },
+ {
+  "name": "酒白芍",
+  "pinyin": "jiu bai shao",
+  "category": "补虚药·补血药",
+  "initials": "jbs"
+ },
+ {
+  "name": "炒白芍",
+  "pinyin": "chao bai shao",
+  "category": "补虚药·补血药",
+  "initials": "cbs"
+ },
+ {
+  "name": "醋白芍",
+  "pinyin": "cu bai shao",
+  "category": "补虚药·补血药",
+  "initials": "cbs"
+ },
+ {
+  "name": "酒川芎",
+  "pinyin": "jiu chuan xiong",
+  "category": "活血化瘀药·活血止痛药",
+  "initials": "jcx"
+ },
+ {
+  "name": "醋香附",
+  "pinyin": "cu xiang fu",
+  "category": "理气药",
+  "initials": "cxf"
+ },
+ {
+  "name": "醋柴胡",
+  "pinyin": "cu chai hu",
+  "category": "解表药·发散风热药",
+  "initials": "cch"
+ },
+ {
+  "name": "醋鳖甲",
+  "pinyin": "cu bie jia",
+  "category": "补虚药·补阴药",
+  "initials": "cbj"
+ },
+ {
+  "name": "醋龟甲",
+  "pinyin": "cu gui jia",
+  "category": "补虚药·补阴药",
+  "initials": "cgj"
+ },
+ {
+  "name": "盐杜仲",
+  "pinyin": "yan du zhong",
+  "category": "补虚药·补阳药",
+  "initials": "ydz"
+ },
+ {
+  "name": "盐续断",
+  "pinyin": "yan xu duan",
+  "category": "补虚药·补阳药",
+  "initials": "yxd"
+ },
+ {
+  "name": "盐黄柏",
+  "pinyin": "yan huang bai",
+  "category": "清热药·清虚热药",
+  "initials": "yhb"
+ },
+ {
+  "name": "盐知母",
+  "pinyin": "yan zhi mu",
+  "category": "清热药·清虚热药",
+  "initials": "yzm"
+ },
+ {
+  "name": "盐车前子",
+  "pinyin": "yan che qian zi",
+  "category": "利水渗湿药·利尿通淋药",
+  "initials": "ycqz"
+ },
+ {
+  "name": "盐泽泻",
+  "pinyin": "yan ze xie",
+  "category": "利水渗湿药·利水消肿药",
+  "initials": "yzx"
+ },
+ {
+  "name": "盐补骨脂",
+  "pinyin": "yan bu gu zhi",
+  "category": "补虚药·补阳药",
+  "initials": "ybgz"
+ },
+ {
+  "name": "盐益智仁",
+  "pinyin": "yan yi zhi ren",
+  "category": "补虚药·补阳药",
+  "initials": "yyzr"
+ },
+ {
+  "name": "盐沙苑子",
+  "pinyin": "yan sha yuan zi",
+  "category": "补虚药·补阳药",
+  "initials": "ysyz"
+ },
+ {
+  "name": "蜜麻黄",
+  "pinyin": "mi ma huang",
+  "category": "解表药·发散风寒药",
+  "initials": "mmh"
+ },
+ {
+  "name": "炙麻黄",
+  "pinyin": "zhi ma huang",
+  "category": "解表药·发散风寒药",
+  "initials": "zmh"
+ },
+ {
+  "name": "蜜紫菀",
+  "pinyin": "mi zi wan",
+  "category": "化痰止咳平喘药·止咳平喘药",
+  "initials": "mzw"
+ },
+ {
+  "name": "蜜款冬花",
+  "pinyin": "mi kuan dong hua",
+  "category": "化痰止咳平喘药·止咳平喘药",
+  "initials": "mkdh"
+ },
+ {
+  "name": "蜜百部",
+  "pinyin": "mi bai bu",
+  "category": "化痰止咳平喘药·止咳平喘药",
+  "initials": "mbb"
+ },
+ {
+  "name": "蜜枇杷叶",
+  "pinyin": "mi pi pa ye",
+  "category": "化痰止咳平喘药·止咳平喘药",
+  "initials": "mppy"
+ },
+ {
+  "name": "炒苦杏仁",
+  "pinyin": "chao ku xing ren",
+  "category": "化痰止咳平喘药·止咳平喘药",
+  "initials": "ckxr"
+ },
+ {
+  "name": "燀苦杏仁",
+  "pinyin": "chan ku xing ren",
+  "category": "化痰止咳平喘药·止咳平喘药",
+  "initials": "ckxr"
+ },
+ {
+  "name": "炒苏子",
+  "pinyin": "chao su zi",
+  "category": "化痰止咳平喘药·止咳平喘药",
+  "initials": "csz"
+ },
+ {
+  "name": "炒莱菔子",
+  "pinyin": "chao lai fu zi",
+  "category": "消食药",
+  "initials": "clfz"
+ },
+ {
+  "name": "炒山楂",
+  "pinyin": "chao shan zha",
+  "category": "消食药",
+  "initials": "csz"
+ },
+ {
+  "name": "炒麦芽",
+  "pinyin": "chao mai ya",
+  "category": "消食药",
+  "initials": "cmy"
+ },
+ {
+  "name": "炒鸡内金",
+  "pinyin": "chao ji nei jin",
+  "category": "消食药",
+  "initials": "cjnj"
+ },
+ {
+  "name": "醋鸡内金",
+  "pinyin": "cu ji nei jin",
+  "category": "消食药",
+  "initials": "cjnj"
+ },
+ {
+  "name": "炒酸枣仁",
+  "pinyin": "chao suan zao ren",
+  "category": "安神药·养心安神药",
+  "initials": "cszr"
+ },
+ {
+  "name": "炒柏子仁",
+  "pinyin": "chao bai zi ren",
+  "category": "安神药·养心安神药",
+  "initials": "cbzr"
+ },
+ {
+  "name": "煅牡蛎",
+  "pinyin": "duan mu li",
+  "category": "平肝息风药·平抑肝阳药",
+  "initials": "dml"
+ },
+ {
+  "name": "煅龙骨",
+  "pinyin": "duan long gu",
+  "category": "安神药·重镇安神药",
+  "initials": "dlg"
+ },
+ {
+  "name": "煅石决明",
+  "pinyin": "duan shi jue ming",
+  "category": "平肝息风药·平抑肝阳药",
+  "initials": "dsjm"
+ },
+ {
+  "name": "煅磁石",
+  "pinyin": "duan ci shi",
+  "category": "安神药·重镇安神药",
+  "initials": "dcs"
+ },
+ {
+  "name": "煅代赭石",
+  "pinyin": "duan dai zhe shi",
+  "category": "平肝息风药·平抑肝阳药",
+  "initials": "ddzs"
+ },
+ {
+  "name": "姜厚朴",
+  "pinyin": "jiang hou po",
+  "category": "化湿药",
+  "initials": "jhp"
+ },
+ {
+  "name": "姜竹茹",
+  "pinyin": "jiang zhu ru",
+  "category": "化痰药·清化热痰药",
+  "initials": "jzr"
+ },
+ {
+  "name": "姜黄连",
+  "pinyin": "jiang huang lian",
+  "category": "清热药·清热燥湿药",
+  "initials": "jhl"
+ },
+ {
+  "name": "酒黄连",
+  "pinyin": "jiu huang lian",
+  "category": "清热药·清热燥湿药",
+  "initials": "jhl"
+ },
+ {
+  "name": "酒黄芩",
+  "pinyin": "jiu huang qin",
+  "category": "清热药·清热燥湿药",
+  "initials": "jhq"
+ },
+ {
+  "name": "炒黄芩",
+  "pinyin": "chao huang qin",
+  "category": "清热药·清热燥湿药",
+  "initials": "chq"
+ },
+ {
+  "name": "麸炒枳壳",
+  "pinyin": "fu chao zhi ke",
+  "category": "理气药",
+  "initials": "fczk"
+ },
+ {
+  "name": "麸炒枳实",
+  "pinyin": "fu chao zhi shi",
+  "category": "理气药",
+  "initials": "fczs"
+ },
+ {
+  "name": "麸炒苍术",
+  "pinyin": "fu chao cang zhu",
+  "category": "化湿药",
+  "initials": "fccz"
+ },
+ {
+  "name": "炒苍耳子",
+  "pinyin": "chao cang er zi",
+  "category": "解表药·发散风寒药",
+  "initials": "ccez"
+ },
+ {
+  "name": "炒白芥子",
+  "pinyin": "chao bai jie zi",
+  "category": "化痰药·温化寒痰药",
+  "initials": "cbjz"
+ },
+ {
+  "name": "炒葶苈子",
+  "pinyin": "chao ting li zi",
+  "category": "化痰止咳平喘药·止咳平喘药",
+  "initials": "ctlz"
+ },
+ {
+  "name": "炒牵牛子",
+  "pinyin": "chao qian niu zi",
+  "category": "泻下药·峻下逐水药",
+  "initials": "cqnz"
+ },
+ {
+  "name": "醋甘遂",
+  "pinyin": "cu gan sui",
+  "category": "泻下药·峻下逐水药",
+  "initials": "cgs"
+ },
+ {
+  "name": "醋芫花",
+  "pinyin": "cu yan hua",
+  "category": "泻下药·峻下逐水药",
+  "initials": "cyh"
+ },
+ {
+  "name": "制川乌",
+  "pinyin": "zhi chuan wu",
+  "category": "祛风湿药·祛风寒湿药",
+  "initials": "zcw"
+ },
+ {
+  "name": "制草乌",
+  "pinyin": "zhi cao wu",
+  "category": "祛风湿药·祛风寒湿药",
+  "initials": "zcw"
+ },
+ {
+  "name": "制附子",
+  "pinyin": "zhi fu zi",
+  "category": "温里药",
+  "initials": "zfz"
+ },
+ {
+  "name": "姜炭",
+  "pinyin": "jiang tan",
+  "category": "止血药·温经止血药",
+  "initials": "jt"
+ },
+ {
+  "name": "艾叶炭",
+  "pinyin": "ai ye tan",
+  "category": "止血药·温经止血药",
+  "initials": "ayt"
+ },
+ {
+  "name": "地榆炭",
+  "pinyin": "de yu tan",
+  "category": "止血药·凉血止血药",
+  "initials": "dyt"
+ },
+ {
+  "name": "槐花炭",
+  "pinyin": "huai hua tan",
+  "category": "止血药·凉血止血药",
+  "initials": "hht"
+ },
+ {
+  "name": "蒲黄炭",
+  "pinyin": "pu huang tan",
+  "category": "止血药·化瘀止血药",
+  "initials": "pht"
+ },
+ {
+  "name": "炒薏苡仁",
+  "pinyin": "chao yi yi ren",
+  "category": "利水渗湿药·利水消肿药",
+  "initials": "cyyr"
+ },
+ {
+  "name": "麸炒薏苡仁",
+  "pinyin": "fu chao yi yi ren",
+  "category": "利水渗湿药·利水消肿药",
+  "initials": "fcyyr"
+ },
+ {
+  "name": "炒决明子",
+  "pinyin": "chao jue ming zi",
+  "category": "清热药·清热泻火药",
+  "initials": "cjmz"
+ },
+ {
+  "name": "炒白果",
+  "pinyin": "chao bai guo",
+  "category": "化痰止咳平喘药·止咳平喘药",
+  "initials": "cbg"
+ },
+ {
+  "name": "煨肉豆蔻",
+  "pinyin": "wei rou dou kou",
+  "category": "收涩药·涩肠止泻药",
+  "initials": "wrdk"
+ },
+ {
+  "name": "煨木香",
+  "pinyin": "wei mu xiang",
+  "category": "理气药",
+  "initials": "wmx"
+ },
+ {
+  "name": "煨葛根",
+  "pinyin": "wei ge gen",
+  "category": "解表药·发散风热药",
+  "initials": "wgg"
+ },
+ {
+  "name": "酒女贞子",
+  "pinyin": "jiu nv zhen zi",
+  "category": "补虚药·补阴药",
+  "initials": "jnzz"
+ },
+ {
+  "name": "蒸何首乌",
+  "pinyin": "zheng he shou wu",
+  "category": "补虚药·补血药",
+  "initials": "zhsw"
+ },
+ {
+  "name": "制何首乌",
+  "pinyin": "zhi he shou wu",
+  "category": "补虚药·补血药",
+  "initials": "zhsw"
+ },
+ {
+  "name": "黑豆汁制何首乌",
+  "pinyin": "hei dou zhi zhi he shou wu",
+  "category": "补虚药·补血药",
+  "initials": "hdzzhsw"
+ },
+ {
+  "name": "炒火麻仁",
+  "pinyin": "chao huo ma ren",
+  "category": "泻下药·润下药",
+  "initials": "chmr"
+ },
+ {
+  "name": "炒郁李仁",
+  "pinyin": "chao yu li ren",
+  "category": "泻下药·润下药",
+  "initials": "cylr"
+ },
+ {
+  "name": "炒白扁豆衣",
+  "pinyin": "chao bai bian dou yi",
+  "category": "补虚药·补气药",
+  "initials": "cbbdy"
+ },
+ {
+  "name": "煅石膏",
+  "pinyin": "duan shi gao",
+  "category": "清热药·清热泻火药",
+  "initials": "dsg"
+ },
+ {
+  "name": "煅蛤壳",
+  "pinyin": "duan ge qiao",
+  "category": "化痰药·清化热痰药",
+  "initials": "dgq"
+ },
+ {
+  "name": "煅海浮石",
+  "pinyin": "duan hai fu shi",
+  "category": "化痰药·清化热痰药",
+  "initials": "dhfs"
+ },
+ {
+  "name": "醋乳香",
+  "pinyin": "cu ru xiang",
+  "category": "活血化瘀药·活血止痛药",
+  "initials": "crx"
+ },
+ {
+  "name": "醋没药",
+  "pinyin": "cu mo yao",
+  "category": "活血化瘀药·活血止痛药",
+  "initials": "cmy"
+ },
+ {
+  "name": "炒蒲黄",
+  "pinyin": "chao pu huang",
+  "category": "止血药·化瘀止血药",
+  "initials": "cph"
+ }
+]
